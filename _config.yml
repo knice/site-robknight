@@ -2,7 +2,7 @@ title:            Rob Knight
 tagline:          This is where I play.
 description:      "Web developer, photographer from Santa Cruz, California."
 #Comment out url when working locally to resolve base urls correctly
-url: http://localhost:4000
+url: http://robknight.net
 
 # Owner/author information
 owner:
