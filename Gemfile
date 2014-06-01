@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'coderay'
-gem 'kramdown'
-gem 'RedCloth'
+gem 'redcarpet'
+gem 's3_website'
