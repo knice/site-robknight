@@ -1,5 +1,11 @@
 ---
-published: true
+date: '2013-11-13 10:22:51'
+layout: post-no-feature
+slug: being-better
+title: "Being better"
+categories:
+- link
+- interview
 ---
 
 If you haven't yet read [Merlin Mann's interview][1] on [The Great Discontent][2], it is a must read. I really love this quote:
