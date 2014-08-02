@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 If you haven't yet read [Merlin Mann's interview][1] on [The Great Discontent][2], it is a must read. I really love this quote:
