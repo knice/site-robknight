@@ -24,7 +24,7 @@ The answer was undeniably *less*. Less driving. Less destination-hopping. Less l
 
 I don't think either of us realized this when we planned the trip because we were both in the middle of hectic times at work. It is so natural to fill **every** day from start to finish with tasks that we planned our vacation the same way by default. 
 
-I'm proud that we spotted the problem early on and made the right adjustments before embarking on a trip that would have left us exhausted. We stopped, did some thinking, and changed course.
+I'm proud that we spotted the problem early on and made the right adjustments before embarking on a trip that would have left us exhausted (and soaked!). We stopped, did some thinking, and changed course.
 
 And the vacation was awesome. 
 
