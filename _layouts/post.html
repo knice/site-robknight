@@ -2,9 +2,8 @@
 
 <section class="article">
 
-{% if page.image.feature %}
-  <div class="overlay"></div>
-  <div class="featured-image" style="background-image: url({% if page.image.external %}{{ page.image.feature }}{% else %}{{ site.url }}/images/{{ page.image.feature }}{% endif %})"></div>
+{% if page.image %}
+  <div class="featured-image" style="background-image: url({% if page.image.external %}{{ page.image.external }}{% else %}{{ site.url }}/images/{{ page.image.feature }}{% endif %})"></div>
 {% else %}
   <div class="overlay"></div>
   <div class="featured-image" style="background-image: url({{ site.url }}/images/typewriter.jpg)"></div>

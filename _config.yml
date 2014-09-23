@@ -10,7 +10,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 title:            Rob Knight
 tagline:          This is where I play.
 description:      "Web developer, photographer from Santa Cruz, California."
-baseurl: http://www.robknight.net.s3-website-us-east-1.amazonaws.com
 
 ## Custom Variables ##
 # Owner/author information
