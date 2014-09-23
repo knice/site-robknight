@@ -3,6 +3,7 @@ future:      true
 highlighter: pygments
 markdown:    redcarpet
 permalink:   /:year/:month/:title
+url: http://www.robknight.net
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "s3_website.yml", ".travis.yml"]
@@ -21,7 +22,7 @@ owner:
   twitter:   robknight
   github:    knice
   instagram: robknight
-  domain: http://www.robknight.net
+
 
 # Links to include in top navigation
 # For external links add external: true
