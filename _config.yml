@@ -1,9 +1,9 @@
 timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments
-markdown:    redcarpet
+markdown:    kramdown
 permalink:   /:year/:month/:title
-url: http://www.robknight.net
+url: https://robknight.net
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "s3_website.yml", ".travis.yml"]
