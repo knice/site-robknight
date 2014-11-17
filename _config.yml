@@ -4,6 +4,7 @@ highlighter: pygments
 markdown:    kramdown
 permalink:   /:year/:month/:title
 url: https://robknight.net
+cdn: https://d2tpzfmmlcqxf6.cloudfront.net
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "s3_website.yml", ".travis.yml"]
@@ -33,7 +34,5 @@ links:
     url: /archive
   - title: Instagram
     url: https://instagram.com/robknight
-    external: true
   - title: Flickr
     url: http://www.flickr.com/photos/rknight
-    external: true
