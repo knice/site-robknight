@@ -1,6 +1,7 @@
 build
 *.DS_Store
 .bundle
+.sass-cache
 vendor
 Gemfile.lock
 source/_drafts
