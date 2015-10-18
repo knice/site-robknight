@@ -1,3 +1,5 @@
+gems: [bourbon, neat]
+
 timezone:    America/Los_Angeles
 future:      true
 highlighter: pygments

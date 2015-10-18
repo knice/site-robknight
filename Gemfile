@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'sass'
+gem 'bourbon'
+gem 'neat'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'jekyll-gh-pages'

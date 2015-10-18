@@ -1,0 +1,79 @@
+body {
+   padding: 0;
+   margin: 0;
+   color: $text-color;
+   background-color: #ffffff;
+   font-weight: 400;
+   line-height: 1.4;
+   font-size: 18px;
+   font-family: "chaparral-pro-1","chaparral-pro-2", -apple-system;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "monarcha-1","monarcha-2";
+  text-transform: uppercase;
+  color: $secondary-color;
+  font-weight: 600;
+  margin: 0.25em 20px;
+}
+
+h1 {
+   font-size: 2.2em;
+   &.icon {
+      width: 64px;
+      margin: 0 auto;
+   }
+}
+
+p {
+   margin: 1em 20px;
+}
+
+a {
+   color: $primary-color;
+   text-decoration: none;
+   &:visited {
+      color: $dark-color;
+   }
+   &:focus,
+   &:hover,
+   &:active {
+      text-decoration: underline;
+   }
+}
+
+img {
+   max-width: 100%;
+}
+
+
+.wrap {
+   margin: 0.5em auto 4em auto;
+   width: 100%;
+   max-width: 32em;
+}
+
+body > header,
+body > footer {
+   text-align: center;
+   padding: 1em 0;
+   border-bottom: 1px solid #dddddd;
+}
+
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   li {
+      display: inline-block;
+      margin: 0 0.5em;
+   }
+}
+
+
+@media screen and (min-width:730px) {
+   h1, h2, h3, h4, h5, h6,
+   p {
+     margin: 1em 0;
+   }
+}
