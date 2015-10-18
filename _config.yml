@@ -6,8 +6,9 @@ permalink:   /:year/:month/:title
 url: https://robknight.net
 cdn: https://d2tpzfmmlcqxf6.cloudfront.net
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "s3_website.yml", ".travis.yml"]
+# Structure configuration
+source: ./source
+destination: ./build
 
 title:            Rob Knight
 tagline:          This is where I play.
