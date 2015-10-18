@@ -1,6 +1,6 @@
-_site
+build
 *.DS_Store
-_drafts
 .bundle
-Gemfile.lock
 vendor
+Gemfile.lock
+source/_drafts
