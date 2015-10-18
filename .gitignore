@@ -4,4 +4,5 @@ build
 .sass-cache
 vendor
 Gemfile.lock
+source/.jekyll-assets-cache
 source/_drafts
