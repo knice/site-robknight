@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 date: '2015-10-15'
 title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]

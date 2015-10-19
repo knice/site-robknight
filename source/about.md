@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: A few things
-description: A few things about Rob Knight.
+title: About Rob Knight
 tags: [about, Jekyll, biography, work]
 ---
 
