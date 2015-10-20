@@ -3,17 +3,16 @@ body {
    margin: 0;
    color: $text-color;
    background-color: #ffffff;
-   font-weight: 400;
+   font-weight: 300;
    line-height: 1.4;
    font-size: 18px;
-   font-family: "chaparral-pro-1","chaparral-pro-2", -apple-system;
+   font-family: "acumin-pro-1","acumin-pro-2","chaparral-pro-1","chaparral-pro-2", -apple-system;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
-  // text-transform: uppercase;
+  font-family: "acumin-pro-1","acumin-pro-2","ff-meta-web-pro-1","ff-meta-web-pro-2";
   color: $secondary-color;
-  font-weight: 600;
+  font-weight: 700;
   margin: 0.25em 20px;
 }
 
