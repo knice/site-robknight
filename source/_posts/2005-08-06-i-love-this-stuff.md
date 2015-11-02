@@ -8,7 +8,7 @@ categories:
 - humor
 ---
 
-{% image 2005/08/playdoh.jpg class="right" %}
+{% image 2005/08/playdoh.jpg class="right" alt="Me and my PlayDoh" %}
 
 I don't have the PlayDoh press or French fry making kit. But the classic yellow container with "Doh" colored lid is real handy to have on my desk for moments of frustration or lost inspiration. How many times did you get it in your hair? In the carpet? Stuck to the cat? It brings back a long lost piece of childhood that few other things conjure.
 

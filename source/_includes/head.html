@@ -13,15 +13,16 @@
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
-<link rel="icon" href="{{ site.url }}/favicon.png">
+<link rel="icon" href="{% asset_path favicon.png %}">
+<link rel="shortcut icon" href="{% asset_path favicon.png %}">
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}">
 <meta name="google-site-verification" content="o7315rHAGpao7cw1C4iyb9RjaMIDQwpD8YgoAygnu0U" />
 
-<script src="https://use.typekit.net/uzc4kob.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link href='https://fonts.googleapis.com/css?family=Yeseva+One' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Merriweather+Sans:300,300italic,700,700italic' rel='stylesheet' type='text/css'>
+
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">

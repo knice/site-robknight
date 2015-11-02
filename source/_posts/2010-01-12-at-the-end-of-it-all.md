@@ -12,7 +12,7 @@ categories:
 ---
 
 <figure>
-  <img src="http://farm5.staticflickr.com/4004/4257166586_213ac69e7f_b.jpg">
+  <img src="http://farm5.staticflickr.com/4004/4257166586_213ac69e7f_b.jpg" alt="Sunrise from West Cliff">
   <figcaption>Sunrise from West Cliff Drive in Santa Cruz, California. By <a href="http://www.flickr.com/photos/catklein/">catklein</a> on Flickr</figcaption>
 </figure>
 
