@@ -12,6 +12,7 @@ cdn: https://d2tpzfmmlcqxf6.cloudfront.net
 # Structure configuration
 source: ./source
 destination: ./build
+exclude: [.jekyll-metadata]
 
 title: Rob Knight
 tagline: This is where I play.
