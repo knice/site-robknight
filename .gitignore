@@ -5,4 +5,5 @@ build
 vendor
 Gemfile.lock
 source/.jekyll-assets-cache
-source/_drafts
+_drafts
+_site
