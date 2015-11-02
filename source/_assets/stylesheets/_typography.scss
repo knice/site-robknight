@@ -5,13 +5,14 @@ body {
    background-color: #ffffff;
    font-weight: 300;
    line-height: 1.4;
-   font-size: 18px;
-   font-family: "acumin-pro-1","acumin-pro-2","chaparral-pro-1","chaparral-pro-2", -apple-system;
+   font-size: 20px;
+   font-family: "chaparral-pro-1","chaparral-pro-2", -apple-system;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "acumin-pro-1","acumin-pro-2","ff-meta-web-pro-1","ff-meta-web-pro-2";
+  font-family: "servus-slab-1","servus-slab-2";
   color: $secondary-color;
+  text-transform: uppercase;
   font-weight: 700;
   margin: 0.25em 20px;
 }
@@ -25,7 +26,7 @@ h1 {
    article & {
      line-height: 1;
      margin-bottom: 0.10em;
-     font-size: 2.5em;
+     font-size: 2.2em;
    }
    ol & {
      font-size: 1.4em;
