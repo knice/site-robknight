@@ -4,6 +4,6 @@ require 'html/proofer'
 desc "Build the site and test with HTML Proofer"
 task :test do
   sh "bundle exec jekyll build"
-   HTML::Proofer.new("./build", {:verbose => true, :disable_external => true}).run
-   # TODO: sh "scss-lint"
+  HTML::Proofer.new("./build", {:disable_external => true}).run
+  # TODO: sh "scss-lint"
 end

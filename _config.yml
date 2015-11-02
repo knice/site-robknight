@@ -5,7 +5,7 @@ gems:
 timezone:    America/Los_Angeles
 highlighter: pygments
 markdown:    kramdown
-permalink:   /:year/:month/:title
+permalink:   /:year/:month/:title/
 url: https://robknight.net
 cdn: https://d2tpzfmmlcqxf6.cloudfront.net
 

@@ -6,3 +6,5 @@ vendor
 Gemfile.lock
 source/.jekyll-assets-cache
 source/_drafts
+
+source/.jekyll-metadata
