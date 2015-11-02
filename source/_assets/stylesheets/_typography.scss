@@ -4,7 +4,7 @@ body {
    color: $text-color;
    background-color: #ffffff;
    font-weight: 300;
-   line-height: 1.4;
+   line-height: 1.5;
    font-size: 16px;
    font-family: $font-family-base;
 }
@@ -32,7 +32,7 @@ h1 {
    }
    article & {
      line-height: 1;
-     margin: 0.5em 0 0.5em 0;
+     margin: 0.25em 0 0.75em 20px;
      font-size: 2.2em;
    }
    ol & {
@@ -42,7 +42,7 @@ h1 {
 }
 
 p {
-   margin: 1em 20px;
+   margin: 1.5em 20px;
 }
 
 a {
@@ -91,13 +91,11 @@ nav ul {
 }
 
 .meta {
-  margin: 0.5em 20px;
+  margin: 0.25em 20px;
   padding-bottom: 0.25em;
-  border-bottom: 2px dotted $light-color;
-  text-transform: uppercase;
   font-size: 16px;
-  font-weight: 700;
-  color: darken($light-color, 20%);
+  font-weight: 400;
+  color: lighten($text-color, 10%);
 }
 
 .archive-list {
@@ -115,6 +113,9 @@ nav ul {
    h1, h2, h3, h4, h5, h6,
    p {
      margin: 1em 0;
+   }
+   article h1 {
+     margin-left: 0px;
    }
    .meta {
      margin: 0.5em 0;
