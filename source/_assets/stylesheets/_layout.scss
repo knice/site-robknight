@@ -1,0 +1,10 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+
+  .site-content {
+    display: block;
+    flex-grow: 1;
+  }
+
+}
