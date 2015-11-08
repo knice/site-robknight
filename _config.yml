@@ -1,25 +1,28 @@
 gems:
 - bourbon
 - neat
+- jekyll-paginate
 
 timezone:    America/Los_Angeles
 highlighter: pygments
 markdown:    kramdown
 permalink:   /:year/:month/:title/
+baseurl: /
 url: https://robknight.net
 cdn: https://d2tpzfmmlcqxf6.cloudfront.net
-
-# Structure configuration
-source: ./source
-destination: ./build
-exclude: [.jekyll-metadata]
 
 title: Rob Knight
 tagline: This is where I play.
 description: "Web developer, photographer from Santa Cruz, California."
 
+## Structure & configuration ##
+source: ./source
+destination: ./build
+exclude: [.jekyll-metadata]
+paginate: 10
+paginate_path: /page/:num
+
 ## Custom Variables ##
-# Owner/author information
 author:
   name: Rob Knight
   bio: "I like to make things and fix things."
@@ -28,16 +31,13 @@ author:
   github: knice
   instagram: robknight
   twitter: robknight
+  flickr: rknight
+  pinboard: robknight
 
-
-# Links to include in top navigation
-# For external links add external: true
 links:
-- title: About
+- text: About
   url: /about
-- title: Archive
+- text: Archive
   url: /archive
-- title: Instagram
-  url: https://instagram.com/robknight
-- title: Flickr
-  url: http://www.flickr.com/photos/rknight
+- text: Contact
+  url: /contact

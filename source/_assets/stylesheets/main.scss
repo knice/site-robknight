@@ -1,6 +1,7 @@
 @import 'bourbon';
 @import 'neat';
 @import 'variables';
-@import 'typography';
-@import 'refills/footer';
-@import 'refills/footer-2';
+@import 'base';
+@import 'regions/header';
+@import 'regions/main';
+@import 'regions/footer';

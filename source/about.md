@@ -1,8 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
 title: About Rob Knight
-tags: [about, Jekyll, biography, work]
 ---
 
 I live and work in Santa Cruz, California with my wife and cat. I've been writing and making things on the web since I stopped being a biologist in January of 2004.

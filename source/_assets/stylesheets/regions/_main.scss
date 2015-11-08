@@ -1,0 +1,29 @@
+.site-content {
+   max-width: 38em;
+   padding: 1.5em;
+   margin: 1em 0;
+}
+
+.date {
+  margin: 0 0 .25em 0;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.2;
+}
+
+.teaser {
+  margin: 0;
+}
+
+.home {
+  ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    li {
+      margin-bottom: 2.5em;
+    }
+  }
+}

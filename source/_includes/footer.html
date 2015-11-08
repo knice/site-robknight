@@ -1,51 +1,15 @@
-<footer class="footer" role="contentinfo">
-  <div class="footer-logo">
-    <svg width="60" height="60" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <title>Rob Knight</title>
-      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-          <rect id="Rectangle-1" fill="#ffffff" x="0" y="0" width="122" height="122" rx="8"></rect>
-          <path d="M14.986,32.256 L14.986,89 L27.04,89 L27.04,66.778 L33.19,66.778 L45.326,89 L59.02,89 L44.424,64.564 C51.968,61.366 55.576,56.856 55.576,49.23 C55.576,37.75 47.868,32.256 32.698,32.256 L14.986,32.256 Z M27.04,58.25 L27.04,40.866 L32.452,40.866 C39.75,40.866 43.112,43.408 43.112,49.23 C43.112,55.626 39.668,58.25 33.354,58.25 L27.04,58.25 Z M109.614,32.256 L96.74,32.256 L77.88,58.742 L96.986,89 L111.09,89 L90.672,57.84 L109.614,32.256 Z M77.388,32.256 L65.334,32.256 L65.334,89 L77.388,89 L77.388,32.256 Z" id="RK" fill="#0b3536"></path>
-      </g>
-  </svg>
-  <div class="footer-links">
-    <ul>
-      <li><h3>Content</h3></li>
-      <li><a href="javascript:void(0)">About</a></li>
-      <li><a href="javascript:void(0)">Contact</a></li>
-      <li><a href="javascript:void(0)">Products</a></li>
-    </ul>
-    <ul>
-      <li><h3>Follow Me</h3></li>
-      <li><a href="javascript:void(0)">Facebook</a></li>
-      <li><a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a></li>
-      <li><a href="javascript:void(0)">YouTube</a></li>
-    </ul>
-    <ul>
-      <li><h3>Code</h3></li>
-      <li><a href="javascript:void(0)">Terms and Conditions</a></li>
-      <li><a href="javascript:void(0)">Privacy Policy</a></li>
-    </ul>
-  </div>
-
-  <hr>
-
-  <p>
-    &copy;2004-{{ site.time | date: '%Y' }} {{ site.author.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-  </p>
-
+<footer class="site-footer">
+  <ul>
+    <li><a href="/">Home</a></li>
+  {% for link in site.links %}
+    <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+  {% endfor %}
+  </ul>
+  <ul>
+    <li><a href="https://www.github.com/{{ site.author.github }}">Github</a></li>
+    <li><a href="https://pinboard.in/u:{{ site.author.pinboard }}">Pinboard</a></li>
+    <li><a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a></li>
+    <li><a href="https://instagram.com/{{ site.author.instagram }}/">Instagram</a></li>
+    <li><a href="https://www.flickr.com/photos/{{ site.author.flickr }}/">Flickr</a></li>
+  </ul>
 </footer>
-
-
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-37252896-1']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>

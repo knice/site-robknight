@@ -1,8 +1,9 @@
 $text-color: #545454;
-$primary-color: #f54123;
-$secondary-color: #0098d8;
-$dark-color: #0b3536;
-$light-color: #e5e7de;
+$action-color: #0098d8;
+$banner-text: lighten($action-color, 50%);
+$background-color: darken($action-color, 20%);
 
-$font-family-base: "Merriweather Sans", -apple-system, sans-serif;
-$font-family-headlines: "Yeseva One", sans-serif;
+$font-family-base: "Source Sans Pro", -apple-system, sans-serif;
+$font-family-headlines: "Source Sans Pro", -apple-system, sans-serif;
+
+$tablet: new-breakpoint(min-width 38em 12);
