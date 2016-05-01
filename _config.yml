@@ -1,39 +1,32 @@
-gems: [bourbon, neat, jekyll-paginate, jekyll-assets]
+gems: [bourbon, neat, jekyll-assets]
 
-timezone:    America/Los_Angeles
-markdown:    kramdown
-permalink:   /:year/:month/:title/
-baseurl: /
-url: https://robknight.net
-cdn: https://d2tpzfmmlcqxf6.cloudfront.net
+timezone:     America/Los_Angeles
+markdown:     kramdown
+permalink:    /:year/:month/:title/
+baseurl:      /
+url:          https://robknight.net
+cdn:          https://d2tpzfmmlcqxf6.cloudfront.net
 
-title: Rob Knight
-tagline: This is where I play.
-description: "Web developer, photographer from Santa Cruz, California."
+title:        Rob Knight
+tagline:      This is where I play.
+description:  "Web developer, photographer from Santa Cruz, California."
 
 ## Structure & configuration ##
-source: ./source
-destination: ./build
-exclude: [.jekyll-metadata, .asset-cache]
-paginate: 10
-paginate_path: /page/:num
+source:       ./source
+destination:  ./build
+exclude:      [.jekyll-metadata, .asset-cache]
+
+assets:
+  digest: true
 
 ## Custom Variables ##
 author:
-  name: Rob Knight
-  bio: "I like to make things and fix things."
-  avatar: avatar.png
-  email: hello@robknight.net
-  github: knice
-  instagram: robknight
-  twitter: robknight
-  flickr: rknight
-  pinboard: robknight
-
-links:
-- text: About
-  url: /about
-- text: Archive
-  url: /archive
-- text: Contact
-  url: /contact
+  name:       Rob Knight
+  bio:        "I like to make things and fix things."
+  avatar:     avatar.png
+  email:      hello@robknight.net
+  github:     knice
+  instagram:  robknight
+  twitter:    robknight
+  flickr:     rknight
+  pinboard:   robknight

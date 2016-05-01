@@ -2,25 +2,21 @@
 layout: default
 ---
 
-<article class="post">
-
+<article>
   <header>
-    <p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
-    <h1 class="title">
+    <h2>
       {% if page.link %}
         <a href="{{ page.link }}">{{ page.title }} &rarr;</a>
       {% else %}
         {{ page.title }}
       {% endif %}
-    </h1>
+    </h2>
+    <p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
   </header>
 
   <div class="content">
-
     {{ content }}
-
   </div>
-
 </article>
 
 <div class="pages">

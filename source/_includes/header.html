@@ -1,9 +1,10 @@
-<header class="site-header">
+<header>
 <h1><a href="/">{{ site.title }}</a></h1>
 <nav role='navigation'>
   <ul>
-  {% for link in site.links %}
-    <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+  {% assign navigation = (site.pages | where: "nav", "true" | sort: "order") %}
+  {% for link in navigation %}
+    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
   {% endfor %}
   </ul>
 </nav>

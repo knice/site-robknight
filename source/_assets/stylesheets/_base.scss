@@ -1,18 +1,29 @@
 body {
-   color: $text-color;
-   font:16px/1.5 "Source Sans Pro", serif;
-   font-weight: 300;
-   padding: 0;
-   margin: 0;
-   min-height: 100vh;
+  background-color: $background-color;
+  color: $text-color;
+  font:16px/1.5 $font-family-base;
+  font-weight: 300;
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
-   font-weight: 600;
+  font-family: $font-family-headlines;
+  font-weight: 600;
+  margin: .25em 0 .05em 0;
 }
 
 h1 {
-  font-size: 1.6em;
+  font-size: 3em;
+
+  a {
+    color: $text-color;
+  }
+}
+
+h2 {
+  font-size: 1.8em;
 }
 
 p {
@@ -35,7 +46,7 @@ a {
 
 blockquote {
   background-color: transparentize($text-color, 0.9);
-  border-left: 12px solid $background-color;
+  border-left: 8px solid transparentize($text-color, 0.5);
   padding: .25em 1em;
   margin: 1em 0;
 }
@@ -47,27 +58,4 @@ img {
     width: 100%;
     margin: .5em 0;
   }
-}
-
-// Base styles for top and bottom page regions
-@mixin banner {
-   background-color: $background-color;
-   color: $banner-text;
-   padding: 1.75em;
-   width: 100%;
-   a {
-     color: $banner-text;
-   }
-   ul {
-      margin: 0;
-      padding: 0;
-      list-style: none;
-      li {
-         display: inline-block;
-         margin-right: 0.75em;
-         a {
-           text-decoration: none;
-         }
-      }
-   }
 }

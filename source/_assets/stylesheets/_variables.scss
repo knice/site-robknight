@@ -1,9 +1,9 @@
 $text-color: #545454;
 $action-color: #0098d8;
-$banner-text: lighten($action-color, 50%);
-$background-color: darken($action-color, 20%);
+$banner-text: #ffffff;
+$background-color: lighten($text-color, 75%);
 
-$font-family-base: "Source Sans Pro", -apple-system, sans-serif;
-$font-family-headlines: "Source Sans Pro", -apple-system, sans-serif;
+$font-family-base: Georgia, serif;
+$font-family-headlines: Georgia, serif;
 
 $tablet: new-breakpoint(min-width 38em 12);
