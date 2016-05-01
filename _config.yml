@@ -1,10 +1,6 @@
-gems:
-- bourbon
-- neat
-- jekyll-paginate
+gems: [bourbon, neat, jekyll-paginate, jekyll-assets]
 
 timezone:    America/Los_Angeles
-highlighter: pygments
 markdown:    kramdown
 permalink:   /:year/:month/:title/
 baseurl: /
@@ -18,7 +14,7 @@ description: "Web developer, photographer from Santa Cruz, California."
 ## Structure & configuration ##
 source: ./source
 destination: ./build
-exclude: [.jekyll-metadata]
+exclude: [.jekyll-metadata, .asset-cache]
 paginate: 10
 paginate_path: /page/:num
 
