@@ -1,14 +1,17 @@
 source 'https://rubygems.org'
 
-gem 'sass'
+gem 'autoprefixer-rails'
 gem 'bourbon'
-gem 'neat'
+gem 'coffee-script'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'jekyll-paginate'
-gem 'redcarpet'
+gem 'mini_magick'
+gem 'neat'
 gem 's3_website'
+gem 'sass'
 gem 'thin'
+gem 'uglifier'
 
 group :development do
   gem 'guard'
@@ -19,5 +22,5 @@ end
 group :test do
   gem 'rake'
   gem 'html-proofer'
-  gem 'scss-lint'
+  gem 'scss_lint'
 end
