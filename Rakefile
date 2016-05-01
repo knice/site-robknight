@@ -1,9 +1,9 @@
-require 'html/proofer'
+require 'html-proofer'
 
 # Test the build
 desc "Build the site and test with HTML Proofer"
 task :test do
   sh "bundle exec jekyll build"
-  HTML::Proofer.new("./build", {:disable_external => true}).run
+  HTMLProofer.check_directory("./build", {:disable_external => true}).run
   # TODO: sh "scss-lint"
 end

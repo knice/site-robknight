@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'autoprefixer-rails'
 gem 'bourbon'
 gem 'coffee-script'
+gem 'html-proofer'
 gem 'jekyll'
 gem 'jekyll-assets'
 gem 'mini_magick'
@@ -11,15 +12,10 @@ gem 's3_website'
 gem 'sass'
 gem 'thin'
 gem 'uglifier'
+gem 'scss_lint'
 
 group :development do
   gem 'guard'
   gem 'guard-jekyll-plus'
   gem 'guard-livereload'
-end
-
-group :test do
-  gem 'rake'
-  gem 'html-proofer'
-  gem 'scss_lint'
 end
