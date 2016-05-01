@@ -2,6 +2,7 @@ build
 *.DS_Store
 .bundle
 .sass-cache
+.asset-cache
 vendor
 Gemfile.lock
 .jekyll-assets-cache
