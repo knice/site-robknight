@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Work
-nav: true
+nav: false
 order: 3
 ---
 
