@@ -1,0 +1,47 @@
+.site-content {
+   margin: 2em 0;
+}
+
+.date {
+  margin: .15em 0 0;
+  color: lighten($text-color, 20%);
+}
+
+.teaser {
+  margin: 0;
+}
+
+.pagination {
+  text-align: left;
+  a, em {
+    display: inline-block;
+    font-style: normal;
+    margin: 0 .25em;
+    padding: .25em;
+    font-weight: 600;
+    font-size: 1.2em;
+  }
+  em {
+    font-size: 1.75em;
+    font-weight: 400;
+  }
+}
+
+.pages {
+  border-top: 1px solid $banner-text;
+  padding-top: .25em;
+  margin-top: 2.5em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  > div {
+
+    flex: 1 1 50%;
+    p {
+      margin: 0;
+    }
+    &:last-child {
+      text-align: right;
+    }
+  }
+}

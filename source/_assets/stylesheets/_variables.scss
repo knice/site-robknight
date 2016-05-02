@@ -1,0 +1,9 @@
+$text-color: #545454;
+$action-color: #0098d8;
+$banner-text: #ffffff;
+$background-color: lighten($text-color, 75%);
+
+$font-family-base: Georgia, serif;
+$font-family-headlines: Georgia, serif;
+
+$tablet: new-breakpoint(min-width 38em 12);

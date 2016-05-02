@@ -1,38 +1,37 @@
-timezone:    America/Los_Angeles
-future:      true
-highlighter: pygments
-markdown:    kramdown
-permalink:   /:year/:month/:title
-url: https://robknight.net
-cdn: https://d2tpzfmmlcqxf6.cloudfront.net
+gems: [bourbon, neat, jekyll-assets]
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "s3_website.yml", ".travis.yml"]
+timezone:     America/Los_Angeles
+markdown:     kramdown
+permalink:    /:year/:month/:title/
+baseurl:      /
+url:          https://robknight.net
+cdn:          https://d2tpzfmmlcqxf6.cloudfront.net
 
-title:            Rob Knight
-tagline:          This is where I play.
-description:      "Web developer, photographer from Santa Cruz, California."
+title:        Rob Knight
+tagline:      This is where I play.
+description:  "Web developer, photographer from Santa Cruz, California."
+
+## Structure & configuration ##
+source:       ./source
+destination:  ./build
+exclude:      [.jekyll-metadata, .asset-cache]
+
+assets:
+  digest: true
+
+collections:
+  projects:
+    output: true
+    permalink: /project/:path/
 
 ## Custom Variables ##
-# Owner/author information
-owner:
-  name:      Rob Knight
-  avatar:    avatar.png
-  bio:       "I like to make things and fix things."
-  email:     hello@robknight.net
-  twitter:   robknight
-  github:    knice
-  instagram: robknight
-
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Archive
-    url: /archive
-  - title: Instagram
-    url: https://instagram.com/robknight
-  - title: Flickr
-    url: http://www.flickr.com/photos/rknight
+author:
+  name:       Rob Knight
+  bio:        "I like to make things and fix things."
+  avatar:     avatar.png
+  email:      hello@robknight.net
+  github:     knice
+  instagram:  robknight
+  twitter:    robknight
+  flickr:     rknight
+  pinboard:   robknight

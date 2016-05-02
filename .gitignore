@@ -1,6 +1,11 @@
-_site
+build
 *.DS_Store
-_drafts
 .bundle
-Gemfile.lock
+.sass-cache
+.asset-cache
 vendor
+Gemfile.lock
+.jekyll-assets-cache
+_drafts
+_site
+.jekyll-metadata
