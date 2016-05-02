@@ -22,7 +22,7 @@ assets:
 collections:
   projects:
     output: true
-    permalink: /project/:path
+    permalink: /project/:path/
 
 ## Custom Variables ##
 author:
