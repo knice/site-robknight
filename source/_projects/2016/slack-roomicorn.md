@@ -1,6 +1,6 @@
 ---
 layout: project
-date: 2016-03-12
+date: "2016-03-12"
 title: "Slack Roomicorn"
 tools:
 - Ruby (Sinatra)
