@@ -54,6 +54,7 @@ blockquote {
 img {
   width: calc(100% + 3em);
   margin: .5em -1.5em;
+  height: auto;
   @include media($tablet) {
     width: 100%;
     margin: .5em 0;
