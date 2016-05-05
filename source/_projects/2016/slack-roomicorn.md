@@ -12,4 +12,4 @@ We have several conference rooms in our office, and sometimes you just need to j
 
 The Roomicorn checks to see which rooms are empty for the number of minutes you've requested and returns a list of available rooms. This is all done with the helpful `FreeBusy` Google Calendar API method.
 
-{% img 2016/screen-roomicorn.jpg magick:resize:400 alt:'Screenshot of the Slack Roomicorn' %}
+{% img 2016/screen-roomicorn.jpg magick:resize:600 alt:'Screenshot of the Slack Roomicorn' %}
