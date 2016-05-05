@@ -7,12 +7,13 @@ layout: default
   <h2>Recent projects</h2>
 
   <ul class="list">
-  {% assign sorted = site.projects | date_sort | reverse %}
+  {% assign sorted = site.projects | sort: 'date' | reverse %}
   {% for project in sorted %}
     <li>{{ project.date | date: "%B %Y" }} - <a href="{{ project.url }}">{{ project.title }}</a></li>
   {% endfor %}
   </ul>
 
   {{ content }}
+
 
 </section>
