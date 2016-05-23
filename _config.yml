@@ -35,3 +35,8 @@ author:
   twitter:    robknight
   flickr:     rknight
   pinboard:   robknight
+
+jekyll_get:
+  - data: things
+    json: https://feeds.pinboard.in/json/u:robknight/t:things/?count=25
+    cache: true

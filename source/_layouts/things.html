@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section>
+
+  {{ content }}
+
+  <ul class="list">
+  {% for thing in site.data.things %}
+    <li>
+      <a class="title" href="{{ thing.u }}">{{ thing.d }}</a>
+      <p>{{ thing.n }}</p>
+      <!-- <p><b>Saved:</b> {{ thing.dt | date: '%B %d, %Y' }}<br><b>Tagged:</b> {{ thing.t | join: ', ' }}</p> -->
+    </li>
+  {% endfor %}
+  </ul>
+
+</section>

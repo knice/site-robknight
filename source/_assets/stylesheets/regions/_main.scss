@@ -45,3 +45,20 @@
     }
   }
 }
+
+.layout-things .list {
+  margin: 2em 0 1em 0;
+  padding: 0;
+  li {
+    margin: 1em 0 2em 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  p {
+    margin-top: .25em;
+  }
+  .title {
+    display: block;
+    font-size: 1.2rem;
+  }
+}

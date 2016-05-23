@@ -13,6 +13,7 @@ gem 'sass'
 gem 'thin'
 gem 'uglifier'
 gem 'scss_lint'
+gem 'hash-joiner'
 
 group :development do
   gem 'guard'
