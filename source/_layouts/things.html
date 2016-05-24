@@ -9,6 +9,7 @@ layout: default
   <ul class="list">
   {% for thing in site.data.things %}
     <li>
+      <p class="date">{{ thing.dt | date: '%B %d, %Y' }}</p>
       <a class="title" href="{{ thing.u }}">{{ thing.d }}</a>
       <p>{{ thing.n }}</p>
       <!-- <p><b>Saved:</b> {{ thing.dt | date: '%B %d, %Y' }}<br><b>Tagged:</b> {{ thing.t | join: ', ' }}</p> -->
