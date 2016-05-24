@@ -1,21 +1,26 @@
 body {
   background-color: $background-color;
   color: $text-color;
-  font:16px/1.5 $font-family-base;
-  font-weight: 300;
+  font:14px/1.5 $font-family-base;
+  font-weight: 400;
   padding: 0;
   margin: 0;
   min-height: 100vh;
+
+  @include media($tablet) {
+    font-size: 18px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-headlines;
-  font-weight: 600;
+  font-weight: 700;
   margin: .25em 0 .05em 0;
+  line-height: 1.2;
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 3.5em;
 
   a {
     color: $text-color;
@@ -23,15 +28,15 @@ h1 {
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 2em;
 }
 
 p {
-  margin: 1em 0;
+  margin: 1.5em 0;
 }
 
 ul, ol {
-  margin: 1em 0;
+  margin: 1.5em 0;
   padding: 0 0 0 1.5em;
   li {
     padding: 0;
