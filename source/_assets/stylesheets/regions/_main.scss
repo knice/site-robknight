@@ -1,10 +1,10 @@
 .site-content {
-   margin: 2em 0;
+  margin: 2em 0;
 }
 
 .date {
-  margin: .15em 0 0;
   color: lighten($text-color, 22%);
+  margin: .15em 0 0;
 }
 
 .teaser {
@@ -13,14 +13,17 @@
 
 .pagination {
   text-align: left;
-  a, em {
+
+  a,
+  em {
     display: inline-block;
+    font-size: 1.2em;
     font-style: normal;
+    font-weight: 600;
     margin: 0 .25em;
     padding: .25em;
-    font-weight: 600;
-    font-size: 1.2em;
   }
+
   em {
     font-size: 1.75em;
     font-weight: 400;
@@ -29,17 +32,19 @@
 
 .pages {
   border-top: 1px solid $banner-text;
-  padding-top: .25em;
-  margin-top: 2.5em;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  > div {
+  margin-top: 2.5em;
+  padding-top: .25em;
 
+  > div {
     flex: 1 1 50%;
+
     p {
       margin: 0;
     }
+
     &:last-child {
       text-align: right;
     }
@@ -47,16 +52,19 @@
 }
 
 .layout-things .list {
-  margin: 2em 0 1em 0;
+  margin: 2em 0 1em;
   padding: 0;
+
   li {
-    margin: 1em 0 2.5em 0;
-    padding: 0;
     list-style-type: none;
+    margin: 1em 0 2.5em;
+    padding: 0;
   }
+
   p {
     margin-top: .25em;
   }
+
   .title {
     display: block;
     font-size: 1.4rem;

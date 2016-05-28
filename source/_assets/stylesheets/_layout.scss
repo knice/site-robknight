@@ -7,13 +7,13 @@
   min-height: 100vh;
   padding: 0 1.5em;
 
+  @include media($tablet) {
+    margin: 6em 4em;
+  }
+
   .site-content {
     display: block;
     flex: 1 0 auto;
-  }
-
-  @include media($tablet) {
-    margin: 6em 4em;
   }
 }
 
