@@ -1,0 +1,12 @@
+scss_files: 'source/_assets/stylesheets/*.scss'
+exclude: 'source/_assets/stylesheets/main.scss'
+
+linters:
+  NameFormat:
+    enabled: true
+  UrlFormat:
+    enabled: true
+  UrlQuotes:
+    enabled: true    
+  VendorPrefix:
+    enabled: true
