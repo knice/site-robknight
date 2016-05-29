@@ -10,7 +10,7 @@ categories:
 - health
 ---
 
-![Two guys with short shirts]({{site.url}}/images/2006/11/whamband.jpg)
+{% image 2006/11/whamband.jpg magick:resize:630 alt:'Two guys with short shirts' %}
 
 I grew up during the mid-80's. That means that I lived through a very...interesting time of music in America. Although my dad generally played NPR on the radio in the car, when he didn't, we were treated to an 80's easy-listening experience that still resonates with me today. _Resonate_ here being used to describe a facial tick that develops whenever I hear [Sad&eacute;](http://www.google.com/musica?aid=0CeIIHzmzeB&sa=X&oi=music&ct=result).
 

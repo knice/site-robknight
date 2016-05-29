@@ -8,7 +8,7 @@ categories:
 - thoughts
 ---
 
-![My groomed fingernails]({{site.url}}/images/2010/02/fingernails.jpg)
+{% image 2010/02/fingernails.jpg magick:resize:630 alt:'My groomed fingernails' %}
 
 Some time in late September of last year, I stopped biting my fingernails. I don't know the day, hour and minute at which I ceased a lifelong habit, but I can tell you I'm quite pleased with myself anyway.
 

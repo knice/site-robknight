@@ -9,7 +9,7 @@ categories:
 - work
 ---
 
-![Malibu, California sunset, February 13, 2010]({{site.url}}/images/2010/02/malibu_sunset.jpg)
+{% image 2010/02/malibu_sunset.jpg magick:resize:630 alt:'Malibu, California sunset, February 13, 2010' %}
 
 Every now and then, something or someone will cause me to ask myself, "where are you going?" (I mean "going" in the metaphorical sense and not the literal sense. Though, knowing where you are going *in life* often means actually going somewhere too.)
 

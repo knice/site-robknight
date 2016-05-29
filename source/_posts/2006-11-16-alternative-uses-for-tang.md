@@ -10,7 +10,7 @@ categories:
 - culture
 ---
 
-![Tang]({{site.url}}/images/2006/11/tang.jpg)
+{% image 2006/11/tang.jpg magick:resize:630 alt:'Tang' %}
 
 Since we moved into our new home in July, we've been unable to use the dishwasher. Because we don't believe in them? Because we like the intimacy of washing each other's hardened food from our 3 day old dinner plates? Because we like to "Soak in it?" No.
 

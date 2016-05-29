@@ -13,7 +13,7 @@ Last Fall, I [posted a tweet](http://twitter.com/robknight/status/4348529477) th
 
 As short-lived as tweets are, I've remembered that line several times recently. I've said it quietly to myself. I've written down on sticky notes and stuck it to the side of my monitor. I started to write it on my hand in pen one day before realizing that might be difficult to explain to others. Not knowing what you are doing is one thing. Going bat-shit crazy and writing phrases on your hand makes the neighbors look at you funny.
 
-[![I don't know what I'm doing by Rob Knight on Twitter]({{site.url}}/images/2010/08/tweet.png)](http://twitter.com/robknight/status/4348529477)
+<a href="https://twitter.com/robknight/status/4348529477">{% image 2010/08/tweet.png magick:resize:630 alt:"I don't know what I'm doing by Rob Knight on Twitter" %}</a>
 
 However, rather than invoke fear or concern, I've come to love that phrase. When I say it to myself, it makes me smile. When I see it, I see something completely different than I saw last Fall. Even though that sentiment is more true now than at any other time in my life, it brings me a small level of comfort that I appreciate.
 

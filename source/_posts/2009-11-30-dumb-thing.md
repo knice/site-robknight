@@ -10,7 +10,7 @@ categories:
 - thoughts
 ---
 
-![Standing on front of the movie display for 'Legion.']({{site.url}}/images/2009/11/winged.jpg)
+{% image 2009/11/winged.jpg magick:resize:630 alt:'Standing on front of the movie display for 'Legion.'' %}
 
 Recently, I did a dumb thing. Without getting into specifics, let's just assume that the thing I did was sufficiently dumb to warrant self-reflection, more than one apology, and a blog post.
 

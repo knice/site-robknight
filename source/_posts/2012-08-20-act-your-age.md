@@ -9,7 +9,7 @@ categories:
 - life  
 ---
 
-![A couple watches the ocean at Natural Bridges State Beach]({{site.url}}/images/2012/08/20120825-002824.jpg)
+{% image 2012/08/20120825-002824.jpg magick:resize:630 alt:'A couple watches the ocean at Natural Bridges State Beach' %}
 
 Yesterday, I was thinking that I've lived 36 years on this planet. So, I know what it feels like to be every age from 0 to 36.
 
