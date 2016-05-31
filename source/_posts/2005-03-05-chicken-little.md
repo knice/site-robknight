@@ -11,7 +11,7 @@ categories:
 
 > [Social Security] will be bust in 10 years unless there are some changes ... The ideal solution would be for Social Security to be made sound and people given the chance to invest the money the way they feel.
 
-–George W. Bush</blockquote>
+--George W. Bush
 
 In other words, the Social Security sky has been falling since 1978.
 
