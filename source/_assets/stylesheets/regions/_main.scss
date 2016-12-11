@@ -5,6 +5,7 @@
 .date {
   color: lighten($text-color, 22%);
   margin: .15em 0 0;
+  font-size: .889em;
 }
 
 .teaser {
@@ -67,7 +68,8 @@
 
   .title {
     display: block;
-    font-size: 1.4rem;
+    font-size: 1.244em;
     line-height: 1.2;
+    margin-bottom: .25em;
   }
 }

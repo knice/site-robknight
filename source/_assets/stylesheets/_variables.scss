@@ -3,7 +3,7 @@ $action-color: #0098d8;
 $banner-text: #fff;
 $background-color: lighten($text-color, 75%);
 
-$font-family-base: "Lato", "Open Sans", sans-serif;
-$font-family-headlines: "jubilat-1", "jubilat-2", sans-serif;
+$font-family-base: "Georgia", serif;
+$font-family-headlines: $font-family-base;
 
 $tablet: new-breakpoint(min-width 38em 12);
