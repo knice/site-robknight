@@ -3,9 +3,15 @@
 
   <head>
     {% include head.html %}
+
+    {% if page.css %}
+    <style>
+      {{ page.css }}      
+    </style>
+    {% endif %}
   </head>
 
-  <body class="layout-{{ page.layout }}">
+  <body class="layout-{{ page.layout }}{% if page.layout == 'post' %} {{ page.slug }}{% endif %}">
     <div class="wrap">
       {% include header.html %}
       <main class="site-content">
