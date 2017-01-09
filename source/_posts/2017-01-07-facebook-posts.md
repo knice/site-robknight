@@ -11,6 +11,7 @@ css: |
         display:block;
         margin: 2em 0;
         width: auto;
+        max-width: 100%;
     }
 ---
 
