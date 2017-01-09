@@ -5,8 +5,6 @@ slug: facebook-posts
 title: "Post-election Facebook posts"
 categories:
 - politics
-image:
-  feature: "2017/01/screen-2017-01-06-33926.jpg"
 css: |
     img {
         border: 1px solid #ddd;
