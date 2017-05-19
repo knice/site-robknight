@@ -7,7 +7,7 @@ body {
   min-height: 100vh;
   padding: 0;
 
-  @include media($tablet) {
+  @include grid-media($tablet-grid) {
     font-size: 18px;
   }
 }
@@ -87,7 +87,7 @@ img {
   margin: .5em -1.5em;
   width: calc(100% + 3em);
 
-  @include media($tablet) {
+  @include grid-media($tablet-grid) {
     margin: .5em 0;
     width: 100%;
   }

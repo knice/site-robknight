@@ -7,3 +7,9 @@ $font-family-base: "Georgia", serif;
 $font-family-headlines: $font-family-base;
 
 $tablet: new-breakpoint(min-width 38em 12);
+
+$tablet-grid: (
+  columns: 12,
+  gutter: 1em,
+  media: 608px,
+);

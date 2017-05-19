@@ -1,7 +1,7 @@
 footer {
   text-align: center;
 
-  @include media($tablet) {
+  @include grid-media($tablet-grid) {
     text-align: left;
   }
 
