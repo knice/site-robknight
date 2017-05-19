@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    {% include head.html %}
+
+    {% if page.css %}
+    <style>
+      {{ page.css }}      
+    </style>
+    {% endif %}
+  </head>
+
+  <body class="layout-{{ page.layout }}{% if page.layout == 'post' %} {{ page.slug }}{% endif %}">
+    <div class="wrap">
+      <main class="site-content">
+        <h1>{{ page.title }}</h1>
+        {{ content }}        
+      </main>
+    </div>
+  </body>
+
+</html>
