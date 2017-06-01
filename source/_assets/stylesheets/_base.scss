@@ -96,6 +96,11 @@ img {
   height: auto;
   margin: .5em -1.5em;
   width: calc(100% + 3em);
+  
+  @include grid-media($tablet-grid) {
+    margin: .5em 0;
+    width: 100%;
+  }
 
   &.right {
     margin: .5em 0;
@@ -108,10 +113,4 @@ img {
       width: initial;
     }
   }
-
-  @include grid-media($tablet-grid) {
-    margin: .5em 0;
-    width: 100%;
-  }
-
 }
