@@ -18,6 +18,7 @@ h3,
 h4,
 h5,
 h6 {
+  color: $headline-color;
   font-family: $font-family-headlines;
   font-weight: 400;
   line-height: 1.2;
@@ -67,6 +68,15 @@ ol {
   li {
     margin: 0;
     padding: 0;
+
+    ul,
+    ol {
+      margin: .5em 0; 
+      
+      li {
+        list-style-type: square;
+      }     
+    }
   }
 }
 
@@ -87,8 +97,21 @@ img {
   margin: .5em -1.5em;
   width: calc(100% + 3em);
 
+  &.right {
+      margin: .5em 0;
+      width: 100%;
+    
+    @include grid-media($tablet-grid) {
+    width: initial;
+    float: right;
+    height: auto;
+    margin: 0 0 1em 1em;
+    }
+  }
+
   @include grid-media($tablet-grid) {
     margin: .5em 0;
     width: 100%;
   }
+
 }
