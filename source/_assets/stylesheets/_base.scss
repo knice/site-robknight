@@ -68,15 +68,15 @@ ol {
   li {
     margin: 0;
     padding: 0;
+  }
+}
 
-    ul,
-    ol {
-      margin: .5em 0; 
-      
-      li {
-        list-style-type: square;
-      }     
-    }
+li ul,
+li ol {
+  margin: .5em 0;
+
+  li {
+    list-style-type: square;
   }
 }
 
@@ -98,14 +98,14 @@ img {
   width: calc(100% + 3em);
 
   &.right {
-      margin: .5em 0;
-      width: 100%;
-    
+    margin: .5em 0;
+    width: 100%;
+
     @include grid-media($tablet-grid) {
-    width: initial;
-    float: right;
-    height: auto;
-    margin: 0 0 1em 1em;
+      float: right;
+      height: auto;
+      margin: 0 0 1em 1em;
+      width: initial;
     }
   }
 
