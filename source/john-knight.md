@@ -2,6 +2,7 @@
 layout: blank
 title: Memorial service for John R. Knight
 nav: false
+description: "Join us on Saturday, June 24, 2017 to celebrate the life and quirkiness of John R. Knight."
 image:
   feature: 2017/05/20150530-192549.jpg
   external: false
