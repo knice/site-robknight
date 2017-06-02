@@ -12,7 +12,7 @@ image:
 
 Join us on **Saturday, June 24, 2017** to celebrate the life and quirkiness of John R. Knight, who passed away on Wednesday, March 15, 2017.
 
-Family and friends are welcome. <a href="https://docs.google.com/forms/d/e/1FAIpQLSf424kEudtq5u_xrSAFx5g_UbVKXfrHP6zIASkwHQg5yD3Jig/viewform">Your RSVP by June 16</a> will help us plan for the day. We will send location details, lodging options and additional event information to your email address after you RSVP.
+Family and friends are welcome. <a href="https://docs.google.com/forms/d/e/1FAIpQLSf424kEudtq5u_xrSAFx5g_UbVKXfrHP6zIASkwHQg5yD3Jig/viewform">Your RSVP by June 16</a> will help us plan for the day. We will send location details, lodging ideas and additional event information to your email address after you RSVP.
 
 - **Saturday, June 24, 2017**
 - **10:30 AM**; reception to follow
