@@ -9,7 +9,7 @@ description:  "Web developer, photographer from Santa Cruz, California."
 url:          https://robknight.net
 
 ## Structure & configuration ##
-source:       ./source
+## source:       ./source
 destination:  ./build
 exclude: [
   .jekyll-metadata
