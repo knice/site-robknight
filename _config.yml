@@ -8,12 +8,13 @@ title:        Rob Knight
 description:  "Web developer, photographer from Santa Cruz, California."
 url:          https://robknight.net
 
-## Structure & configuration ##
-## source:       ./source
-destination:  ./build
-exclude: [
-  .jekyll-metadata
-]
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - Rakefile
+  - README.md
 
 sass:
     sass_dir: _sass
