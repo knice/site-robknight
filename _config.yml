@@ -12,7 +12,6 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - Guardfile
   - Rakefile
   - README.md
 
