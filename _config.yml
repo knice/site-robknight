@@ -15,6 +15,10 @@ exclude: [
   .jekyll-metadata
 ]
 
+sass:
+    sass_dir: _sass
+    style: compressed
+
 google_site_verification: o7315rHAGpao7cw1C4iyb9RjaMIDQwpD8YgoAygnu0U
 
 twitter:
