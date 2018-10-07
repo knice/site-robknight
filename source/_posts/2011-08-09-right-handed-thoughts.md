@@ -16,4 +16,4 @@ However, on the plane flight home from Seattle, I was thinking about more seriou
 
 Normally I post these on Facebook. But I think this one is better suited here, where things are more quiet. This isn't intended to start a religious debate. These are just my thoughts, poured out at 37,000 feet, through my right hand. Cheers.
 
-{% img 2011/08/20110809-012203.jpg alt:"My right-handed drawings" %}
+![My right-handed drawings](2011/08/20110809-012203.jpg)

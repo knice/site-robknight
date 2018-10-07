@@ -23,8 +23,4 @@ This is a global issue, that will affect all of humanity. Our elected officials 
 
 Remember The Day After Tomorrow? Stupid movie, right? What if it were true? What if the global climate changed in a matter of weeks rather than centuries? Would we do something about it? You bet we would. The point is, by the time it gets that bad, whether now or decades from now, it is too late...  
 
-[Environmental Defense 'Clean Air for Life' page](http://www.environmentaldefense.org/cleanairforlife.cfm?subnav=ps_overview&linkID=campaign)  
-
-[Future Forests - Carbon Calculator and Tips for reduction](http://www.futureforests.com/acatalog/index_shop_calculator.asp)  
-
-[I Don't Care About the Air](http://www.idontcareaboutair.com/facts/fuel.shtml)
+[Environmental Defense 'Clean Air for Life' page](http://www.environmentaldefense.org/cleanairforlife.cfm?subnav=ps_overview&linkID=campaign)

@@ -12,4 +12,4 @@ categories:
 
 My left shoulder was x-rayed on Tuesday. Everything is mostly OK. Just have to take it easy for awhile.
 
-{% image 2010/09/my-left-shoulder.jpg magick:resize:630 alt:'My left shoulder x-ray' %}
+![My left shoulder x-ray](/assets/images/2010/09/my-left-shoulder.jpg)

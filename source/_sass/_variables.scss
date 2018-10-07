@@ -1,0 +1,18 @@
+$text-color: #545454;
+$action-color: #0098d8;
+$headline-color: #15a7cc;
+$banner-text: #fff;
+$background-color: lighten($text-color, 75%);
+
+$font-family-base: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-headlines: $font-family-base;
+
+$tablet: 38em;
+
+// Potential color palette from Veerle Peters
+// https://shared-assets.adobe.com/link/3cd607fe-a32e-491d-6801-9caee829a49a
+// Turquoise: #1bb0b8
+// Red-orange: #ff2e4a
+// Gold: #ffda59
+// Blue-green: #005964
+// Light-blue: #a5dfed

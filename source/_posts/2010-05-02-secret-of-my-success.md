@@ -10,7 +10,7 @@ categories:
 - work
 ---
 
-{% image 2010/05/poohsocks.jpg magick:resize:630 alt:'Pooh underwear and striped socks' %}
+![Pooh underwear and striped socks](/assets/images/2010/05/poohsocks.jpg)
 
 I don't know about you, but I'm usually deep in thought, unaware of my surroundings as I change into my workout clothes for a trip to the gym. I'm either reflecting on the day that just ended or thinking about what lies ahead for the next day. I'm pondering this or that meeting or email, not really paying much attention to my choice of underwear that morning and how it coordinates with the rest of my attire. After all, it's underwear, right? _Nobody_ is going to see it unless you're a plumber (I'm not) or a male stripper (NOPE!) or my dad (inside joke).
 

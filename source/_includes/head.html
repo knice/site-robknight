@@ -1,33 +1,13 @@
 
 <link rel="dns-prefetch" href="//d2tpzfmmlcqxf6.cloudfront.net">
 <meta charset="utf-8">
+
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{{ page.description }}">
-<meta name="keywords" content="{{ page.categories | join: ', ' }}">
+{% seo title=false %}
 
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title }}" />
-<meta property="og:url" content="{{ page.url | prepend: site.url }}" />
-{% if page.layout == 'post' or page.layout == 'blank' %}
-<meta property="og:type" content="article" />
-<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
-  {% if page.image.external  %}
-<meta property="og:image" content='{{ page.image.external }}' />
-  {% elsif page.image.feature %}
-<meta property="og:image" content='{{ site.url }}{% asset_path "{{ page.image.feature }}" %}' />
-  {% else %}  
-<meta property="og:image" content='https://pbs.twimg.com/profile_images/477531292351737856/0r3ph2g0.jpeg' />  
-  {% endif %}
-{% endif %}
-
-<link rel="icon" href="{% asset_path favicon.png %}">
-<link rel="shortcut icon" href="{% asset_path favicon.png %}">
+<link rel="icon" href="/assets/images/favicon.png">
+<link rel="shortcut icon" href="/assets/images/favicon.png">
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
-<link rel="canonical" href="{{ page.url | prepend: site.url }}">
-<meta name="google-site-verification" content="o7315rHAGpao7cw1C4iyb9RjaMIDQwpD8YgoAygnu0U" />
-
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -35,13 +15,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="cleartype" content="on">
 
-<script src="https://use.typekit.net/uzc4kob.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
-
-<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-
 <!-- Type -->
-<link rel="stylesheet" type="text/css" media="screen" href="{% asset_path main.css %}" />
+<link href="/assets/css/style.css" rel="stylesheet" type="text/css">
+{% if page.css %}
+<style>
+  {{ page.css }}
+</style>
+{% endif %}
 
 <!-- Indie Web -->
 <link href="https://twitter.com/robknight" rel="me">
@@ -52,3 +32,4 @@
 <link href="https://www.facebook.com/raknight" rel="me">
 <link href="mailto:me@robknight.net" rel="me">
 <link href="mailto:hello@robknight.net" rel="me">
+

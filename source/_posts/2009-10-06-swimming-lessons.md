@@ -9,7 +9,7 @@ categories:
 - life
 ---
 
-{% image 2009/10/mom.jpg magick:resize:630 alt:'Anna Mae Deshiell' %}
+![Anna Mae Deshiell](/assets/images/2009/10/mom.jpg)
 
 When I was 4 years old, my mom started taking me to swimming lessons. She would sit in a wooden chair, away from the edge of the pool, watching as I learned how to blow bubbles, kick, and hold my breath under water. It was an exercise in bravery. Not for me, for my mom.
 

@@ -1,5 +1,5 @@
-scss_files: 'source/_assets/stylesheets/*.scss'
-exclude: 'source/_assets/stylesheets/main.scss'
+scss_files: 'source/_sass/*.scss'
+exclude: 'source/assets/css/style.scss'
 
 linters:
   NameFormat:

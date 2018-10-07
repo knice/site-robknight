@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 cache: bundler
 rvm:
-- 2.3.0
+- 2.4.4
 env:
   global:
   - secure: b47DfMV9cOOcXebTydz3GaPo/sJWhmvlKIKL4BUpUDbamVT3iW/ItZ1rsswCx3xuPG2BSD1gyO0FEP2LCvK164+yDUAKJQIaJAeQz1D/Ag4TAVsjH3Q+w/H/gxeXVunoGJ/Xw9c63hbBM+yDzrGiHX2MBfXvNpkyw3msRO1Nb+c=
@@ -10,4 +10,3 @@ env:
   - secure: Z9QRxNgIstybiXaoagpOf0yTAVkckngROMm7+nIJbkDFbObGUq8PG0EXD7o+7btSS3rLcccoUVm3ZGlXs+HdoioPmF2jZQf6BbCpDJsrqHL38lXOK0WM4h+FyBDVA+YAxGzNKvf1ZkhBMhtX45rQTHtGgUHNLfhB/U6zCz6Pw90=
 install: bundle install
 script: bundle exec rake test
-after_success: bundle exec s3_website push

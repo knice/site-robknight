@@ -1,23 +1,41 @@
-gems: [bourbon, neat, jekyll-assets]
-
 timezone:     America/Los_Angeles
 markdown:     kramdown
 permalink:    /:year/:month/:title/
-baseurl:      /
-url:          https://robknight.net
 cdn:          https://d2tpzfmmlcqxf6.cloudfront.net
+tagline:      This is where I play.
 
 title:        Rob Knight
-tagline:      This is where I play.
 description:  "Web developer, photographer from Santa Cruz, California."
+url:          https://robknight.net
 
 ## Structure & configuration ##
 source:       ./source
 destination:  ./build
-exclude:      [.jekyll-metadata, .asset-cache]
+exclude: [
+  .jekyll-metadata
+]
 
-assets:
-  digest: true
+google_site_verification: o7315rHAGpao7cw1C4iyb9RjaMIDQwpD8YgoAygnu0U
+
+twitter:
+  username: robknight
+  card: summary
+
+social:
+  name: Rob Knight
+  links:
+    - https://twitter.com/robknight
+    - https://www.facebook.com/kneatly
+    - https://www.linkedin.com/in/rknight
+    - https://github.com/knice
+
+plugins:
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate  
 
 collections:
   projects:
@@ -30,13 +48,8 @@ author:
   bio:        "I like to make things and fix things."
   avatar:     avatar.png
   email:      hello@robknight.net
+  twitter:    robknight
   github:     knice
   instagram:  robknight
-  twitter:    robknight
   flickr:     rknight
   pinboard:   robknight
-
-jekyll_get:
-  - data: things
-    json: https://feeds.pinboard.in/json/u:robknight/t:things/?count=25
-    cache: true

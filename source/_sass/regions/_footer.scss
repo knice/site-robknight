@@ -1,0 +1,11 @@
+footer {
+  text-align: center;
+
+  @media (min-width: $tablet) {
+    text-align: left;
+  }
+
+  p {
+    margin: .25em 0;
+  }
+}

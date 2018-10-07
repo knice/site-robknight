@@ -17,7 +17,7 @@ Imagine waiting 10 hours to vote...would you?
 
 This is just one of [numerous incidents](http://www.freepress.org/departments/display/19/2005/1065) which, when combined, call into question the integrity of the Ohio vote.  
   
-Nevertheless, Republicans in the House and Senate simply would not address the accusations and -- sounding like they had dutifullly read their morning email from Karl Rove -- continued to repeat that John Kerry had conceded and we should all just [just get over it](http://www.rnc.org/News/Read.aspx?ID=5065).  
+Nevertheless, Republicans in the House and Senate simply would not address the accusations and -- sounding like they had dutifullly read their morning email from Karl Rove -- continued to repeat that John Kerry had conceded and we should all just just get over it.
   
 So remember that folks, when your Constitutional rights are violated, don't fight it, just get over it.  
   
