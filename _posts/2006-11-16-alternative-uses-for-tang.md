@@ -28,6 +28,6 @@ Not wanting to deny the collective wisdom of the internets, I decided to get som
 
 Upon completion, I opened the dishwasher to find that the healing powers of Tang had not visited our dishwasher. Everything was a light shade of orange, including the still present calcification. The collective wisdom of the internets had proven once again that the internet can be a bad place for home care advice.
 
-The real problem is, what do I do with the left over Tang? Seriously, it's Tang! You can't just throw it out. Think of the environmental carnage that would cause. I don't think I could live with myself knowing that I wrought that kind of orange-flavored destruction on our planet. That is why astronauts drank it. Whatever they didn't use, they jettisoned into space! They knew that our fragile earth would sure succumb to the ravages of Tang.
+The real problem is, what do I do with the left over Tang? Seriously, it's Tang! You can't just throw it out. Think of the environmental carnage that would cause. I don't think I could live with myself knowing that I wrought that kind of orange-flavored destruction on our planet. That is why astronauts drank it. Whatever they didn't use, they jettisoned into space! They knew that our fragile earth would likely succumb to the ravages of Tang.
 
 Seriously though, I'm looking for ideas. What do I do with the extra Tang? Any ideas?
