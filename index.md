@@ -24,9 +24,9 @@ I also love to take photos with my [phone](https://instagram.com/robknight/ "Rob
 - Facebook: [kneatly](https://www.facebook.com/kneatly)
 
 <p class="h-card" style="visibility:hidden;">
-  <img class="u-photo" src="https://gravatar.com/avatar/832dbdd57df394e8fd1986da2e85597c?size=400" alt="Rob Knight, March 2019" />
-  <a class="p-name u-url" href="https://robknight.net">Rob Knight</a>
-  <a class="u-email" href="mailto:hello@robknight.net">hello@robknight.net</a>, 
-  <span class="p-region">California</span>
-  <span class="p-country-name">United States</span>
+<img class="u-photo" src="https://gravatar.com/avatar/832dbdd57df394e8fd1986da2e85597c?size=400" alt="Rob Knight, March 2019" />
+<a class="p-name u-url" href="https://robknight.net">Rob Knight</a>
+<a class="u-email" href="mailto:hello@robknight.net">hello@robknight.net</a>, 
+<span class="p-region">California</span>
+<span class="p-country-name">United States</span>
 </p>
