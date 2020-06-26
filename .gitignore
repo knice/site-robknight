@@ -3,8 +3,8 @@ build
 .bundle
 .sass-cache
 .asset-cache
+.jekyll-cache
 vendor
-Gemfile.lock
 .jekyll-assets-cache
 _drafts
 _site

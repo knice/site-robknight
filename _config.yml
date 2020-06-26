@@ -1,7 +1,6 @@
 timezone:     America/Los_Angeles
 markdown:     kramdown
 permalink:    /:year/:month/:title/
-cdn:          https://d2tpzfmmlcqxf6.cloudfront.net
 tagline:      This is where I play.
 
 title:        Rob Knight
@@ -39,7 +38,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate  
+  - jekyll-paginate
 
 collections:
   projects:
