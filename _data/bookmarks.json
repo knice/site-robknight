@@ -1,1 +1,961 @@
-﻿[ {"u":"https:\/\/staticman.net\/","d":"Staticman: Static sites with superpowers","n":"Form collector for static sites that creates a text file in a Git repo and then a pull request. This is a cool way to create user content on a static site. ","dt":"2020-06-28T17:23:29Z","a":"robknight","t":["tools","work","things","development","html"]},{"u":"https:\/\/cloudfour.com\/thinks\/making-our-patterns-more-accessible\/","d":"Making Our Patterns More Accessible - Cloud Four","n":"","dt":"2020-06-04T17:08:09Z","a":"robknight","t":["design","accessibility","things","development","html"]},{"u":"https:\/\/longform.org\/posts\/longform-podcast-395-wesley-lowery","d":"Longform Podcast #395: Wesley Lowery","n":"Wesley Lowery is a correspondent for “60 in 6” from 60 Minutes. He is the author of They Can't Kill Us All: Ferguson, Baltimore, and a New Era in America's Racial Justice Movement and won the 2016 Pulitzer Prize for \"Fatal Force,\" a","dt":"2020-06-03T21:36:44Z","a":"robknight","t":["things"]},{"u":"https:\/\/www.theatlantic.com\/sponsored\/hbo-2019\/the-massacre-of-black-wall-street\/3217\/?fbclid=IwAR0ZoqLobHTmIWg7Grl_SBJmr8YpHK2GEpuN1OYUCCI9lfgzqyYgvIDCdMs","d":"The Massacre of Black Wall Street","n":"“But just as important are the things that can’t be quantified, such as the loss of the sense of safety in their own city, the loss of trust in city officials, law enforcement, and in some cases, in people altogether.”","dt":"2020-05-31T18:18:38Z","a":"robknight","t":["politics","anthropology","things"]},{"u":"https:\/\/clearleft.com\/posts\/sofaconf-2020-a-technical-write-up","d":"SofaConf 2020 - a technical write-up","n":"Absolutely brilliant write-up of how the SofaConf website was built. Clearleft are so thoughtful about this stuff. I love their principles. ","dt":"2020-05-14T17:08:50Z","a":"robknight","t":["things","development","php","tutorial","advice"]},{"u":"https:\/\/kk.org\/thetechnium\/68-bits-of-unsolicited-advice\/","d":"The Technium: 68 Bits of Unsolicited Advice","n":null,"dt":"2020-05-05T07:07:52Z","a":"robknight","t":["things","advice"]},{"u":"https:\/\/www.gkogan.co\/blog\/simple-systems\/?r=0","d":"Simple Systems Have Less Downtime","n":"Keeping things simple makes you more nimble, responsive, and innovative. ","dt":"2020-03-03T19:24:29Z","a":"robknight","t":["simplicity","things","development"]},{"u":"https:\/\/github.com\/alvarotrigo\/fullPage.js","d":"alvarotrigo\/fullPage.js: fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple","n":"","dt":"2020-02-28T07:15:10Z","a":"robknight","t":["design","javascript","development","things","plugin","html"]},{"u":"https:\/\/www.animalz.co\/blog\/bottom-line-up-front\/","d":"BLUF: The Military Standard for Writing","n":"\"BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails. The basic idea is simple: put the most important details first. Don’t tease or delay your main point because people are busy and their time is valuable. And make it clear.\"","dt":"2020-02-07T23:43:28Z","a":"robknight","t":["communication","writing","email","clarity","focus","things"]},{"u":"https:\/\/github.com\/bradtraversy\/vanillawebprojects","d":"Vanilla Web Projects","n":"Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries","dt":"2020-02-05T00:50:52Z","a":"robknight","t":["javascript","tools","css","development","assistance","reference","things"]},{"u":"https:\/\/gist.github.com\/willurd\/5720255","d":"Big list of ad hoc http server one-liners","n":"","dt":"2020-01-21T09:15:54Z","a":"robknight","t":["localhost","things","http","development","html"]},{"u":"https:\/\/postlight.com\/trackchanges\/podcast\/the-private-network-paul-and-rich-on-intranets","d":"The Private Network: Paul and Rich on Intranets - Track Changes Podcast","n":"Sprawling, funny discussion about the tools we use for work. This will be a fun one to come back to in 2-5 years.","dt":"2020-01-21T08:23:14Z","a":"robknight","t":["work","workflow","podcast","audio","things"]},{"u":"https:\/\/patch.com\/iowa\/westdesmoines\/reporter-writes-own-obituary-you-have-see","d":"Reporter Writes Own Obituary That You Have To See","n":"Ken Fuson, a gifted storyteller for the Des Moines Register and Baltimore Sun, wrote his own obituary, and you have to read it.","dt":"2020-01-10T19:43:44Z","a":"robknight","t":["things","obituary"]},{"u":"http:\/\/click.densediscovery.com\/click\/9255595d-9725-472a-884f-c1f30067ec9c\/17426982-ff36-49ab-9368-71362cc7d380\/event","d":"Video: How To Simplify Your Life","n":"Strive to keep things simple so you don’t get overwhelmed. I love this advice. Not just because it resonates with me but because it just feels right. ","dt":"2019-12-25T09:10:44Z","a":"robknight","t":["highlight","advice","health","things","life","inspiration"]},{"u":"https:\/\/twitter.com\/CarolineMoss\/status\/1198748131556499456","d":"The best thing you learned at therapy","n":"Sharing advice people learned from therapy. Excellent tweet thread. 🏆","dt":"2019-11-25T18:13:47Z","a":"robknight","t":["things","advice","life"]},{"u":"https:\/\/twitter.com\/CruzKayne\/status\/1196646190709907456","d":"\"Ten years ago today my son died\"","n":"We don't talk about grief enough. It's OK to talk about grief more.","dt":"2019-11-19T23:36:24Z","a":"robknight","t":["things","death","life","advice","wisdom","grief"]},{"u":"https:\/\/www.nytimes.com\/2019\/09\/22\/opinion\/trump-ukraine-whistle-blower.html","d":"Donald Trump vs. the United States of America","n":"Just the facts, in 40 sentences.","dt":"2019-09-23T19:10:33Z","a":"robknight","t":["politics","things"]},{"u":"https:\/\/broadcast.listennotes.com\/the-boring-technology-behind-listen-notes-56697c2e347b","d":"The boring technology behind a one-person Internet company","n":"How a successful one person shop works in 2019","dt":"2019-09-18T05:28:45Z","a":"robknight","t":["python","django","things","podcast","advice"]},{"u":"https:\/\/overcast.fm\/+Ht3gLyvM4","d":"overcast.fm","n":"A great discussion about breaking the rules and being successful. ","dt":"2019-08-22T15:02:23Z","a":"robknight","t":["advice","inspiration","things"]},{"u":"https:\/\/ericwbailey.design\/writing\/truths-about-digital-accessibility.html","d":"Truths about digital accessibility","n":"\"Creating, maintaining, or evaluating accessible technology? Here are some things to keep in mind.\"","dt":"2019-08-15T00:09:20Z","a":"robknight","t":["accessibility","a11y","guidelines","things"]},{"u":"https:\/\/www.wsj.com\/articles\/the-fasting-cure-is-no-fad-11564676512?mod=rsswn","d":"The Fasting Cure Is No Fad - WSJ","n":null,"dt":"2019-08-03T03:31:17Z","a":"robknight","t":["things","diet","health"]},{"u":"https:\/\/newrepublic.com\/article\/154523\/nancy-pelosi-impeach","d":"Why Nancy Pelosi Won't Impeach | The New Republic","n":"When people do inexplicable things, it’s always tempting to project qualities onto them that would offer a more innocuous explanation of their behavior than bad judgment, fecklessness, or stupidity. And this particular bias has infected contemporary political analysis with a virulence that rivals Ebola. Even when the subject’s motives are as transparent as Donald Trump’s, there will always be a class of pundit who insists that Trump is playing 3-D chess, when, as one anonymous staffer put it, “more often than not he’s just eating the pieces.” \n\n","dt":"2019-07-24T18:11:20Z","a":"robknight","t":["trump","politics","things"]},{"u":"https:\/\/harvardmagazine.com\/2019\/05\/commencement-teju-cole","d":"“Design Is Not an Intellectual Exercise”","n":"Teju Cole speaks at Harvard: \"We face challenges, and we need you to be a door for us. We’re living in a time of toxic patriarchy still. We are living in a time of white supremacy still. There are those who agree to build prisons. There are those who agree to build detention camps. Oppression has always had great use for architects and designers and urban planners. Redlining was a technical skill. And everything that betrays our collective humanity depends on people just like you, with skills just like yours.\"","dt":"2019-07-24T16:30:06Z","a":"robknight","t":["culture","design","ethics","things","speech"]},{"u":"https:\/\/mikeindustries.com\/blog\/archive\/2019\/06\/superhuman-is-spying-on-you","d":"Superhuman is Spying on You","n":null,"dt":"2019-07-02T20:00:22Z","a":"robknight","t":["things","ethics","development","privacy"]},{"u":"http:\/\/mattgemmell.com\/40\/","d":"40","n":"By Matt Gemmell","dt":"2019-06-06T09:47:20Z","a":"robknight","t":["things","essay"]},{"u":"https:\/\/ideas.ted.com\/the-messy-complicated-truth-about-grief\/?fbclid=IwAR1sigYO7g8tpAklBr05ib4CypWJK8owkSs8V1J_8c50OPGEQ6IoiEJGplo","d":"The messy, complicated truth about grief","n":"Time is irrelevant to grief. I cannot tell you that it will feel better or worse as time goes by; I can just tell you that it feels better and worse as time goes by. The only guarantee is that however you feel right now, you will not always feel this way.","dt":"2019-05-06T04:03:20Z","a":"robknight","t":["advice","death","life","things","grief"]},{"u":"https:\/\/media.defense.gov\/2018\/Oct\/09\/2002049591\/-1\/-1\/0\/DIB_DETECTING_AGILE_BS_2018.10.05.PDF","d":"Detecting Agile Bullshit","n":"The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).","dt":"2019-01-15T21:54:11Z","a":"robknight","t":["agile","management","pdf","things"]},{"u":"https:\/\/www.theredhandfiles.com\/communication-dream-feeling\/","d":"Nick Cave on grief","n":"Beautiful essay on returning to life after grieving a loss. ","dt":"2018-11-08T03:49:54Z","a":"robknight","t":["essay","things","life","advice"]},{"u":"https:\/\/twitter.com\/HC_Richardson\/status\/1058410836908273666","d":"twitter.com","n":"A history lesson about Lincoln the Republican. ","dt":"2018-11-03T15:44:52Z","a":"robknight","t":["history","things","politics","twitter","lesson","thread"]},{"u":"https:\/\/news.ycombinator.com\/item?id=18230044","d":"Alarming study reveals massive insect loss","n":"This quote: \"We need to fall in love with earth again, with all of its creatures, including humans, and even mosquitoes. By perpetuating that live-in-space fantasy, you're sealing the fate of peoples' hearts, crushing the precious seeds of hope and trust in earth's fragile life system, and in humans' potential to bond with earth sustainably.\"","dt":"2018-10-16T15:54:29Z","a":"robknight","t":["things","nature","climate-change"]},{"u":"https:\/\/austinkleon.com\/2018\/01\/19\/something-to-look-forward-to\/","d":"Something to look forward to","n":"Austin Kleon on striving and goals. I love the guidance to have something to look forward to. As many things change unexpectedly in my life, I have found comfort in my Saturday morning hikes. By Wednesday, I usually have a thought about where I'd like to go. By Friday evening, I have a plan. I don't give it too much thought. I just let myself be drawn to an area, then I plan a hike. That is my Arbitrary Stupid Goal: a weekly hike, usually early on Saturday morning. Having something to look forward to gives me hope during a challenging period of my life.","dt":"2018-09-07T19:31:19Z","a":"robknight","t":["advice","goals","life","things"]},{"u":"https:\/\/hbr.org\/2018\/09\/the-1-office-perk-natural-light","d":"The #1 Office Perk? Natural Light","n":"Forget treadmill desks and free food. Employees want to see the sun.","dt":"2018-09-05T18:54:56Z","a":"robknight","t":["management","work","workspace","things"]},{"u":"https:\/\/www.20k.org\/episodes\/jingles","d":"20,000 Hertz: Jingles","n":"This is the story of the rise, fall, and brain science of the jingle.","dt":"2018-09-05T16:25:48Z","a":"robknight","t":["podcast","recommendation","audio","things"]},{"u":"https:\/\/twentytwowords.com\/tips-that-could-literally-save-your-life-someday\/4\/","d":"In the event of a nuclear explosion","n":"This is...horrifying, yes. But also quite practical and possibly life-saving. So there. Be scared, and know how to save yourself.","dt":"2018-08-27T19:43:52Z","a":"robknight","t":["things","survival","tips"]},{"u":"https:\/\/www.nngroup.com\/articles\/voice-assistant-attitudes\/","d":"Intelligent Assistants: Users’ Attitudes Toward Alexa, Google Assistant, and Siri","n":"\"Some said that the assistant was like a young child who could not understand complicated things; others compared it with an old person who did not hear very well. One noted that you cannot “speak for too long, because [the assistant] gets distracted,” while a different participant said that the queries should be shorter than 10 words.\"","dt":"2018-08-06T16:33:16Z","a":"robknight","t":["research","ux","things","usability","voice","interface"]},{"u":"https:\/\/www.npr.org\/2011\/12\/29\/144077273\/maurice-sendak-on-life-death-and-childrens-lit","d":"Maurice Sendak: On Life, Death And Children's Lit","n":"\"I have nothing now but praise for my life. I'm not unhappy. I cry a lot because I miss people. They die and I can't stop them. They leave me and I love them more.\"","dt":"2018-07-25T17:06:56Z","a":"robknight","t":["inspiration","things","interview"]},{"u":"https:\/\/medium.freecodecamp.org\/scheduling-slack-messages-using-aws-lambda-e56a8eb22818","d":"Scheduling Slack messages using AWS Lambda","n":"One of those keystone tutorials that helps bring together important concepts for both serverless and Slack API development. ","dt":"2018-05-02T22:29:48Z","a":"robknight","t":["slack","tutorial","things","lambda","awscli"]},{"u":"https:\/\/twitter.com\/ZachWahls\/status\/965690150469718019","d":"Some ideas on how to make social change","n":null,"dt":"2018-02-21T07:28:56Z","a":"robknight","t":["tools","tips","society","things","guncontrol","social-media","advice"]},{"u":"http:\/\/frankchimero.com\/writing\/everything-easy-is-hard-again\/","d":"Everything Easy is Hard Again","n":"Lovely essay by Frank Chimero about being a person who builds things on the web.","dt":"2018-02-12T07:39:23Z","a":"robknight","t":["design","talk","philosophy","work","advice","things","html"]},{"u":"https:\/\/lawfareblog.com\/i-hope-instance-fake-news-fbi-messages-show-bureaus-real-reaction-trump-firing-james-comey","d":"'I Hope This Is an Instance of Fake News': FBI Messages Show the Bureau's Real Reaction to Trump Firing James Comey","n":"What more than 100 pages of internal FBI communications after Comey's dismissal show about the bureau.","dt":"2018-02-09T16:13:39Z","a":"robknight","t":["politics","fbi","comey","trump","chapter","things"]},{"u":"https:\/\/www.nytimes.com\/interactive\/2018\/01\/27\/technology\/social-media-bots.html","d":"The Follower Factory","n":"Everyone wants to be popular online. Some even pay for suspicious companies for followers. Inside social media’s black market.","dt":"2018-02-09T15:58:36Z","a":"robknight","t":["social-network","chapter","society","social-media","things"]},{"u":"http:\/\/lawfareblog.com\/i-hope-instance-fake-news-fbi-messages-show-bureaus-real-reaction-trump-firing-james-comey","d":"FBI Messages Show the Bureau's Real Reaction to Trump Firing James Comey","n":"Quite a stark contrast between the thoughtfulness of the leaders within the FBI and the feckless lying from the White House. ","dt":"2018-02-07T07:25:59Z","a":"robknight","t":["things","politics","leadership"]},{"u":"https:\/\/twitter.com\/AlastairMcA30\/status\/958992790028988416","d":"Advice from young terminally-ill patients","n":"Be kind. Read more books. Spend time with your family. Crack jokes. Go to the beach. Hug your dog. Tell that special person you love them.","dt":"2018-02-05T05:07:18Z","a":"robknight","t":["things","life","advice"]},{"u":"http:\/\/www.cbc.ca\/radio\/q\/blog\/sarah-silverman-s-response-to-a-twitter-troll-is-a-master-class-in-compassion-1.4471337","d":"Sarah Silverman's response to a Twitter troll is a master class in compassion","n":null,"dt":"2018-01-07T16:34:44Z","a":"robknight","t":["things","compassion","twitter"]},{"u":"https:\/\/www.smashingmagazine.com\/2017\/12\/community-productivity-tips-tricks\/","d":"Rachel Andrew and the Smashing community on being productive","n":"We asked the community on Twitter and Facebook to share their best productivity tips, and in this article I’m going to round these up alongside some things I’ve learned that work well for me.","dt":"2018-01-02T16:43:18Z","a":"robknight","t":["productivity","things","tips","advice","career","life"]},{"u":"https:\/\/twitter.com\/doctorow\/status\/938412603155496960","d":"Cory Doctorow on Russian election meddling","n":"\"The most disturbing thing about a foreign power playing a dispositive role in a US election is that it implies that the US's own political apparatus is as brittle as, say, the Allende-era Chile, a country that had been looted for decades.\"","dt":"2017-12-06T17:07:36Z","a":"robknight","t":["twitter","politics","things"]},{"u":"https:\/\/github.com\/LappleApple\/awesome-leading-and-managing","d":"Awesome List: Leading and managing","n":"Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.","dt":"2017-12-05T15:58:34Z","a":"robknight","t":["leadership","management","tech","technology","work","career","job","advice","things"]},{"u":"https:\/\/mobile.twitter.com\/bookshaped\/status\/937248640162304000","d":"Hayley Webster on Twitter: \"I'm going to write a thread about the nicest Christmas gift I ever received.\"","n":null,"dt":"2017-12-03T17:08:49Z","a":"robknight","t":["respect","inspiration","story","twitter","life","things"]},{"u":"https:\/\/twitter.com\/magi_jay\/status\/934875769850998790","d":"In-depth critique of the NYT profile of a Nazi","n":"\"The NYTimes is densely defending their article by claiming it was intended to shed light on the normalcy of racism in American society. I agree this is a worthy topic of discussion. So, let’s talk about all the things the Times could have *actually* achieved this.\"","dt":"2017-11-27T18:19:21Z","a":"robknight","t":["ethics","twitter","politics","nytimes","things"]},{"u":"http:\/\/www.macdrifter.com\/2017\/11\/fuck-twitter.html","d":"Fuck Twitter","n":"\"Twitter is far from a magnifying lens. It’s more like a kaleidoscope or a fun mirror. It’s showing what humans pretend to be when we perform for each other.\"","dt":"2017-11-10T18:12:43Z","a":"robknight","t":["things","society","twitter","technology","politics","opinion","leaving","social-media"]},{"u":"http:\/\/www.theguardian.com\/technology\/2017\/oct\/05\/smartphone-addiction-silicon-valley-dystopia","d":"'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia","n":null,"dt":"2017-10-26T03:00:43Z","a":"robknight","t":["design","web","things"]},{"u":"http:\/\/pierrickcalvez.com\/journal\/a-five-minutes-guide-to-better-typography","d":"Five Minutes to Better Typography","n":"A lovely and easy tutorial on typography by Pierrick Calvez.","dt":"2017-10-07T01:47:56Z","a":"robknight","t":["typography","design","fonts","guide","tutorial","things","advice","via:popular"]},{"u":"http:\/\/alexanderperrin.com.au\/paper\/shorttrip\/","d":"Short Trip - Alexander Perrin","n":"Beautiful digital illustration.","dt":"2017-09-25T22:16:55Z","a":"robknight","t":["art","design","animation","illustration","inspiration","things","via:popular"]},{"u":"https:\/\/qotoqot.com\/blog\/improving-focus\/","d":"How I got to 200 productive hours a month","n":"\"But you are not your thoughts, and they have no power over you until you feed them with attention.\"","dt":"2017-09-24T15:01:29Z","a":"robknight","t":["focus","life","productivity","work","things","meditation","advice","mindfulness"]},{"u":"https:\/\/catapult.co\/stories\/do-you-want-to-be-known-for-your-writing-or-for-your-swift-email-responses","d":"Do you want to be known for your writing, or for your swift email responses?","n":"Perfect advice for prioritizing real work over your fear of disappointing people. \"You are not saying no to an event where you might make an important connection, you are saying yes to your work.\"","dt":"2017-07-30T15:12:29Z","a":"robknight","t":["tips","advice","work","things","writing"]},{"u":"http:\/\/theoatmeal.com\/comics\/making_things","d":"The Oatmeal: creativity and working for yourself","n":"A rather lengthy comic about being a content creator.","dt":"2017-07-26T15:45:20Z","a":"robknight","t":["comic","creativity","inspiration","writing","work","things"]},{"u":"https:\/\/twitter.com\/ava\/status\/883892905647104002","d":"twitter.com","n":"I don't think there has been a better account of the Trump presidency than this. ","dt":"2017-07-09T15:47:26Z","a":"robknight","t":["president","things","video","politics"]},{"u":"http:\/\/www.huffingtonpost.com\/entry\/i-dont-know-how-to-explain-to-you-that-you-should_us_59519811e4b0f078efd98440","d":"I don't know how to explain to you that you should care about other people","n":"Our disagreement is not merely political, but a fundamental divide on what it means to live in a society.","dt":"2017-06-29T20:02:38Z","a":"robknight","t":["education","empathy","equality","politics","commentary","things"]},{"u":"https:\/\/twitter.com\/Noahpinion\/status\/834174479760650240","d":"Making news great again, a tweetlist by @noahpinion","n":null,"dt":"2017-02-22T06:42:02Z","a":"robknight","t":["news","things","twitter"]},{"u":"https:\/\/www.thefire.org\/resources\/disinvitation-database\/","d":"FIRE: Disinvitation Database","n":"A database of incidents where a speaker was disinvited from speaking at a college or university in the United States between 2000-present.","dt":"2017-02-20T22:40:53Z","a":"robknight","t":["tool","database","politics","speech","things"]},{"u":"https:\/\/motherboard.vice.com\/en_us\/article\/how-our-likes-helped-trump-win","d":"The data that turned the world upside down","n":"Seventy \"likes\" were enough to outdo what a person's friends knew, 150 what their parents knew, and 300 \"likes\" what their partner knew. More \"likes\" could even surpass what a person thought they knew about themselves. On the day that Kosinski published these findings, he received two phone calls. The threat of a lawsuit and a job offer. Both from Facebook.","dt":"2017-02-01T17:10:33Z","a":"robknight","t":["bigdata","data","facebook","politics","things","research"]},{"u":"https:\/\/www.washingtonpost.com\/blogs\/compost\/wp\/2017\/01\/24\/the-true-correct-story-of-what-happened-at-donald-trumps-inauguration\/?postshare=2471485469775455&tid=ss_fb-bottom","d":"The true, correct story of what happened at Donald Trump’s inauguration","n":"\"When the floor is lava, Donald Trump can walk on it, but only Donald Trump.\"","dt":"2017-01-27T06:24:19Z","a":"robknight","t":["things","trump","politics","parody"]},{"u":"https:\/\/medium.com\/@dinachka82\/about-your-poem-1f26a7585a6f#.a79tuoymn","d":"You are not equal. I’m sorry.","n":"An essay about equality and why it's important for women to continue to push for it. ","dt":"2017-01-24T07:23:42Z","a":"robknight","t":["things","equality","politics","essay"]},{"u":"http:\/\/www.buzzfeed.com\/jamieross\/this-guy-tricked-infowars-into-publishing-a-completely-fake","d":"This guy tricked Infowars into publishing a completely fake report On Trump","n":"\"There's no level of judgement from these people claiming to be journalists, there is no rigour whatsoever and they're the first people to see an article from The New York Times or CNN or BuzzFeed and call it fake news.\"","dt":"2017-01-19T07:16:52Z","a":"robknight","t":["news","things","journalism","fake"]},{"u":"http:\/\/www.niemanlab.org\/2016\/12\/rise-of-the-rebel-journalist\/","d":"The Rebel Journalist Manifesto","n":"I think these rules should extend to all of us, in all online forums. ","dt":"2017-01-19T07:07:12Z","a":"robknight","t":["journalism","guidance","ethics","things","advice"]},{"u":"http:\/\/www.gq.com\/story\/shut-up-about-connecting-with-trumps-middle-america","d":"Shut up about connecting with Trump's middle America","n":"\"It should be clear by now that a lot people voted for Trump as an act of irrational hostility. I think a lot of these supposedly poor, misunderstood souls in the hinterlands knew damn well that Donald Trump wasn’t gonna bring their jobs back. They just didn’t like the fact that OTHER people are now prospering. Their Trump vote was an act of aggression, a stamp of tacit approval for his campaign of hatred.\"","dt":"2017-01-17T19:07:18Z","a":"robknight","t":["trump","things","politics"]},{"u":"https:\/\/www.designernews.co\/stories\/79075-what-is-the-one-thing-that-vastly-improved-the-way-you-work","d":"What is the one thing that vastly improved the way you work?","n":"Wake up early and block distracting websites.","dt":"2017-01-17T15:30:39Z","a":"robknight","t":["advice","tips","design","development","habits","work","life","things"]},{"u":"http:\/\/forsetti.tumblr.com\/post\/153181757500\/on-rural-america-understanding-isnt-the-problem","d":"Understanding Rural America isn’t the problem","n":"\"For us “coastal elites” who understand evolution, genetics, science…nothing we say to those in fly-over country is going to be listened to because not only are we fighting against an anti-education belief system, we are arguing against God.  You aren’t winning a battle of beliefs with these people if you are on one side of the argument and God is on the other.  No degree of understanding this is going to suddenly make them less racist, more open to reason and facts.  Telling “urban elites” they need to understand rural Americans isn’t going to lead to a damn thing because it misses the causes of the problem.\"","dt":"2017-01-08T20:20:48Z","a":"robknight","t":["politics","trump","education","science","things","religion"]},{"u":"http:\/\/randsinrepose.com\/archives\/five-leadership-hacks\/","d":"Five Leadership Hacks – Rands in Repose","n":"These are good. And small. And easy to make into habits. ","dt":"2016-12-14T07:40:15Z","a":"robknight","t":["advice","career","management","things","teams","work"]},{"u":"http:\/\/designinstruct.com\/roundups\/font-pairing-resources\/","d":"10 Font pairing resources","n":"Sites that recommend font pairings and font stacks.","dt":"2016-12-11T21:07:46Z","a":"robknight","t":["font","typography","typeface","recommendation","things"]}]
+﻿[
+  {
+    "u": "https://staticman.net/",
+    "d": "Staticman: Static sites with superpowers",
+    "n": "Form collector for static sites that creates a text file in a Git repo and then a pull request. This is a cool way to create user content on a static site. ",
+    "dt": "2020-06-28T17:23:29Z",
+    "a": "robknight",
+    "t": [
+      "tools",
+      "work",
+      "things",
+      "development",
+      "html"
+    ]
+  },
+  {
+    "u": "https://cloudfour.com/thinks/making-our-patterns-more-accessible/",
+    "d": "Making Our Patterns More Accessible - Cloud Four",
+    "n": "",
+    "dt": "2020-06-04T17:08:09Z",
+    "a": "robknight",
+    "t": [
+      "design",
+      "accessibility",
+      "things",
+      "development",
+      "html"
+    ]
+  },
+  {
+    "u": "https://longform.org/posts/longform-podcast-395-wesley-lowery",
+    "d": "Longform Podcast #395: Wesley Lowery",
+    "n": "Wesley Lowery is a correspondent for “60 in 6” from 60 Minutes. He is the author of They Can't Kill Us All: Ferguson, Baltimore, and a New Era in America's Racial Justice Movement and won the 2016 Pulitzer Prize for \"Fatal Force,\" a",
+    "dt": "2020-06-03T21:36:44Z",
+    "a": "robknight",
+    "t": [
+      "things"
+    ]
+  },
+  {
+    "u": "https://www.theatlantic.com/sponsored/hbo-2019/the-massacre-of-black-wall-street/3217/?fbclid=IwAR0ZoqLobHTmIWg7Grl_SBJmr8YpHK2GEpuN1OYUCCI9lfgzqyYgvIDCdMs",
+    "d": "The Massacre of Black Wall Street",
+    "n": "“But just as important are the things that can’t be quantified, such as the loss of the sense of safety in their own city, the loss of trust in city officials, law enforcement, and in some cases, in people altogether.”",
+    "dt": "2020-05-31T18:18:38Z",
+    "a": "robknight",
+    "t": [
+      "politics",
+      "anthropology",
+      "things"
+    ]
+  },
+  {
+    "u": "https://clearleft.com/posts/sofaconf-2020-a-technical-write-up",
+    "d": "SofaConf 2020 - a technical write-up",
+    "n": "Absolutely brilliant write-up of how the SofaConf website was built. Clearleft are so thoughtful about this stuff. I love their principles. ",
+    "dt": "2020-05-14T17:08:50Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "development",
+      "php",
+      "tutorial",
+      "advice"
+    ]
+  },
+  {
+    "u": "https://kk.org/thetechnium/68-bits-of-unsolicited-advice/",
+    "d": "The Technium: 68 Bits of Unsolicited Advice",
+    "n": null,
+    "dt": "2020-05-05T07:07:52Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "advice"
+    ]
+  },
+  {
+    "u": "https://www.gkogan.co/blog/simple-systems/?r=0",
+    "d": "Simple Systems Have Less Downtime",
+    "n": "Keeping things simple makes you more nimble, responsive, and innovative. ",
+    "dt": "2020-03-03T19:24:29Z",
+    "a": "robknight",
+    "t": [
+      "simplicity",
+      "things",
+      "development"
+    ]
+  },
+  {
+    "u": "https://github.com/alvarotrigo/fullPage.js",
+    "d": "alvarotrigo/fullPage.js: fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+    "n": "",
+    "dt": "2020-02-28T07:15:10Z",
+    "a": "robknight",
+    "t": [
+      "design",
+      "javascript",
+      "development",
+      "things",
+      "plugin",
+      "html"
+    ]
+  },
+  {
+    "u": "https://www.animalz.co/blog/bottom-line-up-front/",
+    "d": "BLUF: The Military Standard for Writing",
+    "n": "\"BLUF is a military communications acronym—it stands for “bottom line up front”—that’s designed to enforce speed and clarity in reports and emails. The basic idea is simple: put the most important details first. Don’t tease or delay your main point because people are busy and their time is valuable. And make it clear.\"",
+    "dt": "2020-02-07T23:43:28Z",
+    "a": "robknight",
+    "t": [
+      "communication",
+      "writing",
+      "email",
+      "clarity",
+      "focus",
+      "things"
+    ]
+  },
+  {
+    "u": "https://github.com/bradtraversy/vanillawebprojects",
+    "d": "Vanilla Web Projects",
+    "n": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "dt": "2020-02-05T00:50:52Z",
+    "a": "robknight",
+    "t": [
+      "javascript",
+      "tools",
+      "css",
+      "development",
+      "assistance",
+      "reference",
+      "things"
+    ]
+  },
+  {
+    "u": "https://gist.github.com/willurd/5720255",
+    "d": "Big list of ad hoc http server one-liners",
+    "n": "",
+    "dt": "2020-01-21T09:15:54Z",
+    "a": "robknight",
+    "t": [
+      "localhost",
+      "things",
+      "http",
+      "development",
+      "html"
+    ]
+  },
+  {
+    "u": "https://postlight.com/trackchanges/podcast/the-private-network-paul-and-rich-on-intranets",
+    "d": "The Private Network: Paul and Rich on Intranets - Track Changes Podcast",
+    "n": "Sprawling, funny discussion about the tools we use for work. This will be a fun one to come back to in 2-5 years.",
+    "dt": "2020-01-21T08:23:14Z",
+    "a": "robknight",
+    "t": [
+      "work",
+      "workflow",
+      "podcast",
+      "audio",
+      "things"
+    ]
+  },
+  {
+    "u": "https://patch.com/iowa/westdesmoines/reporter-writes-own-obituary-you-have-see",
+    "d": "Reporter Writes Own Obituary That You Have To See",
+    "n": "Ken Fuson, a gifted storyteller for the Des Moines Register and Baltimore Sun, wrote his own obituary, and you have to read it.",
+    "dt": "2020-01-10T19:43:44Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "obituary"
+    ]
+  },
+  {
+    "u": "http://click.densediscovery.com/click/9255595d-9725-472a-884f-c1f30067ec9c/17426982-ff36-49ab-9368-71362cc7d380/event",
+    "d": "Video: How To Simplify Your Life",
+    "n": "Strive to keep things simple so you don’t get overwhelmed. I love this advice. Not just because it resonates with me but because it just feels right. ",
+    "dt": "2019-12-25T09:10:44Z",
+    "a": "robknight",
+    "t": [
+      "highlight",
+      "advice",
+      "health",
+      "things",
+      "life",
+      "inspiration"
+    ]
+  },
+  {
+    "u": "https://twitter.com/CarolineMoss/status/1198748131556499456",
+    "d": "The best thing you learned at therapy",
+    "n": "Sharing advice people learned from therapy. Excellent tweet thread. 🏆",
+    "dt": "2019-11-25T18:13:47Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "advice",
+      "life"
+    ]
+  },
+  {
+    "u": "https://twitter.com/CruzKayne/status/1196646190709907456",
+    "d": "\"Ten years ago today my son died\"",
+    "n": "We don't talk about grief enough. It's OK to talk about grief more.",
+    "dt": "2019-11-19T23:36:24Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "death",
+      "life",
+      "advice",
+      "wisdom",
+      "grief"
+    ]
+  },
+  {
+    "u": "https://www.nytimes.com/2019/09/22/opinion/trump-ukraine-whistle-blower.html",
+    "d": "Donald Trump vs. the United States of America",
+    "n": "Just the facts, in 40 sentences.",
+    "dt": "2019-09-23T19:10:33Z",
+    "a": "robknight",
+    "t": [
+      "politics",
+      "things"
+    ]
+  },
+  {
+    "u": "https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b",
+    "d": "The boring technology behind a one-person Internet company",
+    "n": "How a successful one person shop works in 2019",
+    "dt": "2019-09-18T05:28:45Z",
+    "a": "robknight",
+    "t": [
+      "python",
+      "django",
+      "things",
+      "podcast",
+      "advice"
+    ]
+  },
+  {
+    "u": "https://overcast.fm/+Ht3gLyvM4",
+    "d": "overcast.fm",
+    "n": "A great discussion about breaking the rules and being successful. ",
+    "dt": "2019-08-22T15:02:23Z",
+    "a": "robknight",
+    "t": [
+      "advice",
+      "inspiration",
+      "things"
+    ]
+  },
+  {
+    "u": "https://ericwbailey.design/writing/truths-about-digital-accessibility.html",
+    "d": "Truths about digital accessibility",
+    "n": "\"Creating, maintaining, or evaluating accessible technology? Here are some things to keep in mind.\"",
+    "dt": "2019-08-15T00:09:20Z",
+    "a": "robknight",
+    "t": [
+      "accessibility",
+      "a11y",
+      "guidelines",
+      "things"
+    ]
+  },
+  {
+    "u": "https://www.wsj.com/articles/the-fasting-cure-is-no-fad-11564676512?mod=rsswn",
+    "d": "The Fasting Cure Is No Fad - WSJ",
+    "n": null,
+    "dt": "2019-08-03T03:31:17Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "diet",
+      "health"
+    ]
+  },
+  {
+    "u": "https://newrepublic.com/article/154523/nancy-pelosi-impeach",
+    "d": "Why Nancy Pelosi Won't Impeach | The New Republic",
+    "n": "When people do inexplicable things, it’s always tempting to project qualities onto them that would offer a more innocuous explanation of their behavior than bad judgment, fecklessness, or stupidity. And this particular bias has infected contemporary political analysis with a virulence that rivals Ebola. Even when the subject’s motives are as transparent as Donald Trump’s, there will always be a class of pundit who insists that Trump is playing 3-D chess, when, as one anonymous staffer put it, “more often than not he’s just eating the pieces.” \n\n",
+    "dt": "2019-07-24T18:11:20Z",
+    "a": "robknight",
+    "t": [
+      "trump",
+      "politics",
+      "things"
+    ]
+  },
+  {
+    "u": "https://harvardmagazine.com/2019/05/commencement-teju-cole",
+    "d": "“Design Is Not an Intellectual Exercise”",
+    "n": "Teju Cole speaks at Harvard: \"We face challenges, and we need you to be a door for us. We’re living in a time of toxic patriarchy still. We are living in a time of white supremacy still. There are those who agree to build prisons. There are those who agree to build detention camps. Oppression has always had great use for architects and designers and urban planners. Redlining was a technical skill. And everything that betrays our collective humanity depends on people just like you, with skills just like yours.\"",
+    "dt": "2019-07-24T16:30:06Z",
+    "a": "robknight",
+    "t": [
+      "culture",
+      "design",
+      "ethics",
+      "things",
+      "speech"
+    ]
+  },
+  {
+    "u": "https://mikeindustries.com/blog/archive/2019/06/superhuman-is-spying-on-you",
+    "d": "Superhuman is Spying on You",
+    "n": null,
+    "dt": "2019-07-02T20:00:22Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "ethics",
+      "development",
+      "privacy"
+    ]
+  },
+  {
+    "u": "http://mattgemmell.com/40/",
+    "d": "40",
+    "n": "By Matt Gemmell",
+    "dt": "2019-06-06T09:47:20Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "essay"
+    ]
+  },
+  {
+    "u": "https://ideas.ted.com/the-messy-complicated-truth-about-grief/?fbclid=IwAR1sigYO7g8tpAklBr05ib4CypWJK8owkSs8V1J_8c50OPGEQ6IoiEJGplo",
+    "d": "The messy, complicated truth about grief",
+    "n": "Time is irrelevant to grief. I cannot tell you that it will feel better or worse as time goes by; I can just tell you that it feels better and worse as time goes by. The only guarantee is that however you feel right now, you will not always feel this way.",
+    "dt": "2019-05-06T04:03:20Z",
+    "a": "robknight",
+    "t": [
+      "advice",
+      "death",
+      "life",
+      "things",
+      "grief"
+    ]
+  },
+  {
+    "u": "https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF",
+    "d": "Detecting Agile Bullshit",
+    "n": "The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).",
+    "dt": "2019-01-15T21:54:11Z",
+    "a": "robknight",
+    "t": [
+      "agile",
+      "management",
+      "pdf",
+      "things"
+    ]
+  },
+  {
+    "u": "https://www.theredhandfiles.com/communication-dream-feeling/",
+    "d": "Nick Cave on grief",
+    "n": "Beautiful essay on returning to life after grieving a loss. ",
+    "dt": "2018-11-08T03:49:54Z",
+    "a": "robknight",
+    "t": [
+      "essay",
+      "things",
+      "life",
+      "advice"
+    ]
+  },
+  {
+    "u": "https://twitter.com/HC_Richardson/status/1058410836908273666",
+    "d": "twitter.com",
+    "n": "A history lesson about Lincoln the Republican. ",
+    "dt": "2018-11-03T15:44:52Z",
+    "a": "robknight",
+    "t": [
+      "history",
+      "things",
+      "politics",
+      "twitter",
+      "lesson",
+      "thread"
+    ]
+  },
+  {
+    "u": "https://news.ycombinator.com/item?id=18230044",
+    "d": "Alarming study reveals massive insect loss",
+    "n": "This quote: \"We need to fall in love with earth again, with all of its creatures, including humans, and even mosquitoes. By perpetuating that live-in-space fantasy, you're sealing the fate of peoples' hearts, crushing the precious seeds of hope and trust in earth's fragile life system, and in humans' potential to bond with earth sustainably.\"",
+    "dt": "2018-10-16T15:54:29Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "nature",
+      "climate-change"
+    ]
+  },
+  {
+    "u": "https://austinkleon.com/2018/01/19/something-to-look-forward-to/",
+    "d": "Something to look forward to",
+    "n": "Austin Kleon on striving and goals. I love the guidance to have something to look forward to. As many things change unexpectedly in my life, I have found comfort in my Saturday morning hikes. By Wednesday, I usually have a thought about where I'd like to go. By Friday evening, I have a plan. I don't give it too much thought. I just let myself be drawn to an area, then I plan a hike. That is my Arbitrary Stupid Goal: a weekly hike, usually early on Saturday morning. Having something to look forward to gives me hope during a challenging period of my life.",
+    "dt": "2018-09-07T19:31:19Z",
+    "a": "robknight",
+    "t": [
+      "advice",
+      "goals",
+      "life",
+      "things"
+    ]
+  },
+  {
+    "u": "https://hbr.org/2018/09/the-1-office-perk-natural-light",
+    "d": "The #1 Office Perk? Natural Light",
+    "n": "Forget treadmill desks and free food. Employees want to see the sun.",
+    "dt": "2018-09-05T18:54:56Z",
+    "a": "robknight",
+    "t": [
+      "management",
+      "work",
+      "workspace",
+      "things"
+    ]
+  },
+  {
+    "u": "https://www.20k.org/episodes/jingles",
+    "d": "20,000 Hertz: Jingles",
+    "n": "This is the story of the rise, fall, and brain science of the jingle.",
+    "dt": "2018-09-05T16:25:48Z",
+    "a": "robknight",
+    "t": [
+      "podcast",
+      "recommendation",
+      "audio",
+      "things"
+    ]
+  },
+  {
+    "u": "https://twentytwowords.com/tips-that-could-literally-save-your-life-someday/4/",
+    "d": "In the event of a nuclear explosion",
+    "n": "This is...horrifying, yes. But also quite practical and possibly life-saving. So there. Be scared, and know how to save yourself.",
+    "dt": "2018-08-27T19:43:52Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "survival",
+      "tips"
+    ]
+  },
+  {
+    "u": "https://www.nngroup.com/articles/voice-assistant-attitudes/",
+    "d": "Intelligent Assistants: Users’ Attitudes Toward Alexa, Google Assistant, and Siri",
+    "n": "\"Some said that the assistant was like a young child who could not understand complicated things; others compared it with an old person who did not hear very well. One noted that you cannot “speak for too long, because [the assistant] gets distracted,” while a different participant said that the queries should be shorter than 10 words.\"",
+    "dt": "2018-08-06T16:33:16Z",
+    "a": "robknight",
+    "t": [
+      "research",
+      "ux",
+      "things",
+      "usability",
+      "voice",
+      "interface"
+    ]
+  },
+  {
+    "u": "https://www.npr.org/2011/12/29/144077273/maurice-sendak-on-life-death-and-childrens-lit",
+    "d": "Maurice Sendak: On Life, Death And Children's Lit",
+    "n": "\"I have nothing now but praise for my life. I'm not unhappy. I cry a lot because I miss people. They die and I can't stop them. They leave me and I love them more.\"",
+    "dt": "2018-07-25T17:06:56Z",
+    "a": "robknight",
+    "t": [
+      "inspiration",
+      "things",
+      "interview"
+    ]
+  },
+  {
+    "u": "https://medium.freecodecamp.org/scheduling-slack-messages-using-aws-lambda-e56a8eb22818",
+    "d": "Scheduling Slack messages using AWS Lambda",
+    "n": "One of those keystone tutorials that helps bring together important concepts for both serverless and Slack API development. ",
+    "dt": "2018-05-02T22:29:48Z",
+    "a": "robknight",
+    "t": [
+      "slack",
+      "tutorial",
+      "things",
+      "lambda",
+      "awscli"
+    ]
+  },
+  {
+    "u": "https://twitter.com/ZachWahls/status/965690150469718019",
+    "d": "Some ideas on how to make social change",
+    "n": null,
+    "dt": "2018-02-21T07:28:56Z",
+    "a": "robknight",
+    "t": [
+      "tools",
+      "tips",
+      "society",
+      "things",
+      "guncontrol",
+      "social-media",
+      "advice"
+    ]
+  },
+  {
+    "u": "http://frankchimero.com/writing/everything-easy-is-hard-again/",
+    "d": "Everything Easy is Hard Again",
+    "n": "Lovely essay by Frank Chimero about being a person who builds things on the web.",
+    "dt": "2018-02-12T07:39:23Z",
+    "a": "robknight",
+    "t": [
+      "design",
+      "talk",
+      "philosophy",
+      "work",
+      "advice",
+      "things",
+      "html"
+    ]
+  },
+  {
+    "u": "https://lawfareblog.com/i-hope-instance-fake-news-fbi-messages-show-bureaus-real-reaction-trump-firing-james-comey",
+    "d": "'I Hope This Is an Instance of Fake News': FBI Messages Show the Bureau's Real Reaction to Trump Firing James Comey",
+    "n": "What more than 100 pages of internal FBI communications after Comey's dismissal show about the bureau.",
+    "dt": "2018-02-09T16:13:39Z",
+    "a": "robknight",
+    "t": [
+      "politics",
+      "fbi",
+      "comey",
+      "trump",
+      "chapter",
+      "things"
+    ]
+  },
+  {
+    "u": "https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html",
+    "d": "The Follower Factory",
+    "n": "Everyone wants to be popular online. Some even pay for suspicious companies for followers. Inside social media’s black market.",
+    "dt": "2018-02-09T15:58:36Z",
+    "a": "robknight",
+    "t": [
+      "social-network",
+      "chapter",
+      "society",
+      "social-media",
+      "things"
+    ]
+  },
+  {
+    "u": "http://lawfareblog.com/i-hope-instance-fake-news-fbi-messages-show-bureaus-real-reaction-trump-firing-james-comey",
+    "d": "FBI Messages Show the Bureau's Real Reaction to Trump Firing James Comey",
+    "n": "Quite a stark contrast between the thoughtfulness of the leaders within the FBI and the feckless lying from the White House. ",
+    "dt": "2018-02-07T07:25:59Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "politics",
+      "leadership"
+    ]
+  },
+  {
+    "u": "https://twitter.com/AlastairMcA30/status/958992790028988416",
+    "d": "Advice from young terminally-ill patients",
+    "n": "Be kind. Read more books. Spend time with your family. Crack jokes. Go to the beach. Hug your dog. Tell that special person you love them.",
+    "dt": "2018-02-05T05:07:18Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "life",
+      "advice"
+    ]
+  },
+  {
+    "u": "http://www.cbc.ca/radio/q/blog/sarah-silverman-s-response-to-a-twitter-troll-is-a-master-class-in-compassion-1.4471337",
+    "d": "Sarah Silverman's response to a Twitter troll is a master class in compassion",
+    "n": null,
+    "dt": "2018-01-07T16:34:44Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "compassion",
+      "twitter"
+    ]
+  },
+  {
+    "u": "https://www.smashingmagazine.com/2017/12/community-productivity-tips-tricks/",
+    "d": "Rachel Andrew and the Smashing community on being productive",
+    "n": "We asked the community on Twitter and Facebook to share their best productivity tips, and in this article I’m going to round these up alongside some things I’ve learned that work well for me.",
+    "dt": "2018-01-02T16:43:18Z",
+    "a": "robknight",
+    "t": [
+      "productivity",
+      "things",
+      "tips",
+      "advice",
+      "career",
+      "life"
+    ]
+  },
+  {
+    "u": "https://twitter.com/doctorow/status/938412603155496960",
+    "d": "Cory Doctorow on Russian election meddling",
+    "n": "\"The most disturbing thing about a foreign power playing a dispositive role in a US election is that it implies that the US's own political apparatus is as brittle as, say, the Allende-era Chile, a country that had been looted for decades.\"",
+    "dt": "2017-12-06T17:07:36Z",
+    "a": "robknight",
+    "t": [
+      "twitter",
+      "politics",
+      "things"
+    ]
+  },
+  {
+    "u": "https://github.com/LappleApple/awesome-leading-and-managing",
+    "d": "Awesome List: Leading and managing",
+    "n": "Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",
+    "dt": "2017-12-05T15:58:34Z",
+    "a": "robknight",
+    "t": [
+      "leadership",
+      "management",
+      "tech",
+      "technology",
+      "work",
+      "career",
+      "job",
+      "advice",
+      "things"
+    ]
+  },
+  {
+    "u": "https://mobile.twitter.com/bookshaped/status/937248640162304000",
+    "d": "Hayley Webster on Twitter: \"I'm going to write a thread about the nicest Christmas gift I ever received.\"",
+    "n": null,
+    "dt": "2017-12-03T17:08:49Z",
+    "a": "robknight",
+    "t": [
+      "respect",
+      "inspiration",
+      "story",
+      "twitter",
+      "life",
+      "things"
+    ]
+  },
+  {
+    "u": "https://twitter.com/magi_jay/status/934875769850998790",
+    "d": "In-depth critique of the NYT profile of a Nazi",
+    "n": "\"The NYTimes is densely defending their article by claiming it was intended to shed light on the normalcy of racism in American society. I agree this is a worthy topic of discussion. So, let’s talk about all the things the Times could have *actually* achieved this.\"",
+    "dt": "2017-11-27T18:19:21Z",
+    "a": "robknight",
+    "t": [
+      "ethics",
+      "twitter",
+      "politics",
+      "nytimes",
+      "things"
+    ]
+  },
+  {
+    "u": "http://www.macdrifter.com/2017/11/fuck-twitter.html",
+    "d": "Fuck Twitter",
+    "n": "\"Twitter is far from a magnifying lens. It’s more like a kaleidoscope or a fun mirror. It’s showing what humans pretend to be when we perform for each other.\"",
+    "dt": "2017-11-10T18:12:43Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "society",
+      "twitter",
+      "technology",
+      "politics",
+      "opinion",
+      "leaving",
+      "social-media"
+    ]
+  },
+  {
+    "u": "http://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia",
+    "d": "'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia",
+    "n": null,
+    "dt": "2017-10-26T03:00:43Z",
+    "a": "robknight",
+    "t": [
+      "design",
+      "web",
+      "things"
+    ]
+  },
+  {
+    "u": "http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography",
+    "d": "Five Minutes to Better Typography",
+    "n": "A lovely and easy tutorial on typography by Pierrick Calvez.",
+    "dt": "2017-10-07T01:47:56Z",
+    "a": "robknight",
+    "t": [
+      "typography",
+      "design",
+      "fonts",
+      "guide",
+      "tutorial",
+      "things",
+      "advice",
+      "via:popular"
+    ]
+  },
+  {
+    "u": "http://alexanderperrin.com.au/paper/shorttrip/",
+    "d": "Short Trip - Alexander Perrin",
+    "n": "Beautiful digital illustration.",
+    "dt": "2017-09-25T22:16:55Z",
+    "a": "robknight",
+    "t": [
+      "art",
+      "design",
+      "animation",
+      "illustration",
+      "inspiration",
+      "things",
+      "via:popular"
+    ]
+  },
+  {
+    "u": "https://qotoqot.com/blog/improving-focus/",
+    "d": "How I got to 200 productive hours a month",
+    "n": "\"But you are not your thoughts, and they have no power over you until you feed them with attention.\"",
+    "dt": "2017-09-24T15:01:29Z",
+    "a": "robknight",
+    "t": [
+      "focus",
+      "life",
+      "productivity",
+      "work",
+      "things",
+      "meditation",
+      "advice",
+      "mindfulness"
+    ]
+  },
+  {
+    "u": "https://catapult.co/stories/do-you-want-to-be-known-for-your-writing-or-for-your-swift-email-responses",
+    "d": "Do you want to be known for your writing, or for your swift email responses?",
+    "n": "Perfect advice for prioritizing real work over your fear of disappointing people. \"You are not saying no to an event where you might make an important connection, you are saying yes to your work.\"",
+    "dt": "2017-07-30T15:12:29Z",
+    "a": "robknight",
+    "t": [
+      "tips",
+      "advice",
+      "work",
+      "things",
+      "writing"
+    ]
+  },
+  {
+    "u": "http://theoatmeal.com/comics/making_things",
+    "d": "The Oatmeal: creativity and working for yourself",
+    "n": "A rather lengthy comic about being a content creator.",
+    "dt": "2017-07-26T15:45:20Z",
+    "a": "robknight",
+    "t": [
+      "comic",
+      "creativity",
+      "inspiration",
+      "writing",
+      "work",
+      "things"
+    ]
+  },
+  {
+    "u": "https://twitter.com/ava/status/883892905647104002",
+    "d": "twitter.com",
+    "n": "I don't think there has been a better account of the Trump presidency than this. ",
+    "dt": "2017-07-09T15:47:26Z",
+    "a": "robknight",
+    "t": [
+      "president",
+      "things",
+      "video",
+      "politics"
+    ]
+  },
+  {
+    "u": "http://www.huffingtonpost.com/entry/i-dont-know-how-to-explain-to-you-that-you-should_us_59519811e4b0f078efd98440",
+    "d": "I don't know how to explain to you that you should care about other people",
+    "n": "Our disagreement is not merely political, but a fundamental divide on what it means to live in a society.",
+    "dt": "2017-06-29T20:02:38Z",
+    "a": "robknight",
+    "t": [
+      "education",
+      "empathy",
+      "equality",
+      "politics",
+      "commentary",
+      "things"
+    ]
+  },
+  {
+    "u": "https://twitter.com/Noahpinion/status/834174479760650240",
+    "d": "Making news great again, a tweetlist by @noahpinion",
+    "n": null,
+    "dt": "2017-02-22T06:42:02Z",
+    "a": "robknight",
+    "t": [
+      "news",
+      "things",
+      "twitter"
+    ]
+  },
+  {
+    "u": "https://www.thefire.org/resources/disinvitation-database/",
+    "d": "FIRE: Disinvitation Database",
+    "n": "A database of incidents where a speaker was disinvited from speaking at a college or university in the United States between 2000-present.",
+    "dt": "2017-02-20T22:40:53Z",
+    "a": "robknight",
+    "t": [
+      "tool",
+      "database",
+      "politics",
+      "speech",
+      "things"
+    ]
+  },
+  {
+    "u": "https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win",
+    "d": "The data that turned the world upside down",
+    "n": "Seventy \"likes\" were enough to outdo what a person's friends knew, 150 what their parents knew, and 300 \"likes\" what their partner knew. More \"likes\" could even surpass what a person thought they knew about themselves. On the day that Kosinski published these findings, he received two phone calls. The threat of a lawsuit and a job offer. Both from Facebook.",
+    "dt": "2017-02-01T17:10:33Z",
+    "a": "robknight",
+    "t": [
+      "bigdata",
+      "data",
+      "facebook",
+      "politics",
+      "things",
+      "research"
+    ]
+  },
+  {
+    "u": "https://www.washingtonpost.com/blogs/compost/wp/2017/01/24/the-true-correct-story-of-what-happened-at-donald-trumps-inauguration/?postshare=2471485469775455&tid=ss_fb-bottom",
+    "d": "The true, correct story of what happened at Donald Trump’s inauguration",
+    "n": "\"When the floor is lava, Donald Trump can walk on it, but only Donald Trump.\"",
+    "dt": "2017-01-27T06:24:19Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "trump",
+      "politics",
+      "parody"
+    ]
+  },
+  {
+    "u": "https://medium.com/@dinachka82/about-your-poem-1f26a7585a6f#.a79tuoymn",
+    "d": "You are not equal. I’m sorry.",
+    "n": "An essay about equality and why it's important for women to continue to push for it. ",
+    "dt": "2017-01-24T07:23:42Z",
+    "a": "robknight",
+    "t": [
+      "things",
+      "equality",
+      "politics",
+      "essay"
+    ]
+  },
+  {
+    "u": "http://www.buzzfeed.com/jamieross/this-guy-tricked-infowars-into-publishing-a-completely-fake",
+    "d": "This guy tricked Infowars into publishing a completely fake report On Trump",
+    "n": "\"There's no level of judgement from these people claiming to be journalists, there is no rigour whatsoever and they're the first people to see an article from The New York Times or CNN or BuzzFeed and call it fake news.\"",
+    "dt": "2017-01-19T07:16:52Z",
+    "a": "robknight",
+    "t": [
+      "news",
+      "things",
+      "journalism",
+      "fake"
+    ]
+  },
+  {
+    "u": "http://www.niemanlab.org/2016/12/rise-of-the-rebel-journalist/",
+    "d": "The Rebel Journalist Manifesto",
+    "n": "I think these rules should extend to all of us, in all online forums. ",
+    "dt": "2017-01-19T07:07:12Z",
+    "a": "robknight",
+    "t": [
+      "journalism",
+      "guidance",
+      "ethics",
+      "things",
+      "advice"
+    ]
+  },
+  {
+    "u": "http://www.gq.com/story/shut-up-about-connecting-with-trumps-middle-america",
+    "d": "Shut up about connecting with Trump's middle America",
+    "n": "\"It should be clear by now that a lot people voted for Trump as an act of irrational hostility. I think a lot of these supposedly poor, misunderstood souls in the hinterlands knew damn well that Donald Trump wasn’t gonna bring their jobs back. They just didn’t like the fact that OTHER people are now prospering. Their Trump vote was an act of aggression, a stamp of tacit approval for his campaign of hatred.\"",
+    "dt": "2017-01-17T19:07:18Z",
+    "a": "robknight",
+    "t": [
+      "trump",
+      "things",
+      "politics"
+    ]
+  },
+  {
+    "u": "https://www.designernews.co/stories/79075-what-is-the-one-thing-that-vastly-improved-the-way-you-work",
+    "d": "What is the one thing that vastly improved the way you work?",
+    "n": "Wake up early and block distracting websites.",
+    "dt": "2017-01-17T15:30:39Z",
+    "a": "robknight",
+    "t": [
+      "advice",
+      "tips",
+      "design",
+      "development",
+      "habits",
+      "work",
+      "life",
+      "things"
+    ]
+  },
+  {
+    "u": "http://forsetti.tumblr.com/post/153181757500/on-rural-america-understanding-isnt-the-problem",
+    "d": "Understanding Rural America isn’t the problem",
+    "n": "\"For us “coastal elites” who understand evolution, genetics, science…nothing we say to those in fly-over country is going to be listened to because not only are we fighting against an anti-education belief system, we are arguing against God.  You aren’t winning a battle of beliefs with these people if you are on one side of the argument and God is on the other.  No degree of understanding this is going to suddenly make them less racist, more open to reason and facts.  Telling “urban elites” they need to understand rural Americans isn’t going to lead to a damn thing because it misses the causes of the problem.\"",
+    "dt": "2017-01-08T20:20:48Z",
+    "a": "robknight",
+    "t": [
+      "politics",
+      "trump",
+      "education",
+      "science",
+      "things",
+      "religion"
+    ]
+  },
+  {
+    "u": "http://randsinrepose.com/archives/five-leadership-hacks/",
+    "d": "Five Leadership Hacks – Rands in Repose",
+    "n": "These are good. And small. And easy to make into habits. ",
+    "dt": "2016-12-14T07:40:15Z",
+    "a": "robknight",
+    "t": [
+      "advice",
+      "career",
+      "management",
+      "things",
+      "teams",
+      "work"
+    ]
+  },
+  {
+    "u": "http://designinstruct.com/roundups/font-pairing-resources/",
+    "d": "10 Font pairing resources",
+    "n": "Sites that recommend font pairings and font stacks.",
+    "dt": "2016-12-11T21:07:46Z",
+    "a": "robknight",
+    "t": [
+      "font",
+      "typography",
+      "typeface",
+      "recommendation",
+      "things"
+    ]
+  }
+]
