@@ -12,5 +12,5 @@
     # All the feeds we wish to gather for use in the build
     [[plugins.inputs.feeds]]
       name = "things"
-      url = "https://feeds.pinboard.in/json/u:robknight/t:things/"
+      url = "https://feeds.pinboard.in/rss/u:robknight/t:things/"
       ttl = 3600
