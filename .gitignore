@@ -9,3 +9,4 @@ vendor
 _drafts
 _site
 .jekyll-metadata
+node_modules

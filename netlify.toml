@@ -1,0 +1,12 @@
+[[plugins]]
+  package = "netlify-plugin-fetch-feeds"
+
+  [plugins.inputs]
+    # Where should data files reside
+    dataDir = "_data"
+
+    # All the feeds we wish to gather for use in the build
+    [[plugins.inputs.feeds]]
+      name = "things"
+      url = "https://feeds.pinboard.in/json/u:robknight/t:things/"
+      ttl = 3600
