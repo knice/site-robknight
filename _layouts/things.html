@@ -7,7 +7,7 @@ layout: default
   {{ content }}
 
   <ul class="list">
-  {% for thing in site.data.things %}
+  {% for thing in site.data.bookmarks %}
     <li>
       <p class="date">{{ thing.dt | date: '%B %d, %Y' }}</p>
       <a class="title" href="{{ thing.u }}">{{ thing.d }}</a>
