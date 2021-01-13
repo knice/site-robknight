@@ -8,7 +8,7 @@ categories:
 - photos
 - essay
 image:
-  feature: http://farm5.static.flickr.com/4009/4661632122_743ab5328c_b.jpg
+  feature: https://farm5.static.flickr.com/4009/4661632122_743ab5328c_b.jpg
   external: true
 ---
 
