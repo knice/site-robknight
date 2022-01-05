@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section>
+
+  {{ content | safe }}
+
+  <ul class="list">
+  {% for thing in site.data.bookmarks %}
+    <li>
+      <a class="title" href="{{ thing.u }}">{{ thing.d }}</a>
+      <p class="date">{{ thing.dt }}</p>
+      {% if thing.n %}
+      <p class="description">{{ thing.n }}</p>      
+      {% endif %}
+      
+    </li>
+  {% endfor %}
+  </ul>
+
+</section>

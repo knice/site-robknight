@@ -1,0 +1,10 @@
+<footer>
+  <nav>
+    <ul>
+      {% for link in navigation %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <p>&copy;2004&ndash;{% year %}, Rob Knight</p>
+</footer>

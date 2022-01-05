@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h2>
+      {% if page.link %}
+        <a href="{{ page.link }}">{{ page.title }} &rarr;</a>
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+    </h2>
+    <p class="date">{{ page.date }}</p>
+  </header>
+
+  <div class="content">
+    <ul>
+      <li><strong>Tools used:</strong> {{ page.tools }}</li>
+      {% if page.link %}
+      <li><strong>Visit:</strong> <a href="{{ page.link }}">{{ page.link }}</a></li>
+      {% endif %}
+    </ul>
+
+    {{ content | safe }}
+  </div>
+</article>
+
+<div class="pages">
+  <ul>
+  {% if page.previous %}
+  <li>Previous: {{ page.previous.date }} - <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
+  {% endif %}
+
+  {% if page.next %}
+  <li>Next: {{ page.next.date }} - <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+  </li>
+  {% endif %}
+  </ul>
+</div>

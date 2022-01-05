@@ -1,0 +1,6 @@
+<header>
+<h1><a href="/">{{ site.title }}</a></h1>
+<nav role='navigation'>
+  {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}  
+</nav>
+</header>

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h2>
+      {% if page.link %}
+        <a href="{{ page.link }}">{{ title }} &rarr;</a>
+      {% else %}
+        {{ title }}
+      {% endif %}
+    </h2>
+    <p class="date">{{ page.date | readableDate }}</p>
+  </header>
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+</article>
+
+<div class="pages">
+  <ul>
+  {% if page.previous %}
+  <li>Previous: {{ page.previous.date }} - <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></li>
+  {% endif %}
+
+  {% if page.next %}
+  <li>Next: {{ page.next.date }} - <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+  </li>
+  {% endif %}
+  </ul>
+</div>
