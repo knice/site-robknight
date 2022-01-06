@@ -3,20 +3,15 @@ layout: default
 ---
 
 <article>
-  <header>
-    <h2>
-      {% if page.link %}
-        <a href="{{ page.link }}">{{ title }} &rarr;</a>
-      {% else %}
-        {{ title }}
-      {% endif %}
-    </h2>
-    <p class="date">{{ page.date | readableDate }}</p>
-  </header>
+  
+  <p class="date">{{ page.date.toISOString() | readableDate }}</p>
 
   <div class="content">
     {{ content | safe }}
   </div>
+
+  {{ page.data.link }}
+
 </article>
 
 <div class="pages">

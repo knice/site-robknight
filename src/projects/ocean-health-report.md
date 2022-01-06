@@ -1,7 +1,7 @@
 ---
 layout: project
 tag: project
-date: "2016-02-19"
+date: 2016-02-19
 title: "The Wild, Wild West Coast"
 tools:
   - Ruby (Jekyll)

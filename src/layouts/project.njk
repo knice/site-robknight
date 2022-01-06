@@ -3,22 +3,19 @@ layout: default
 ---
 
 <article>
-  <header>
-    <h2>
-      {% if page.link %}
-        <a href="{{ page.link }}">{{ page.title }} &rarr;</a>
-      {% else %}
-        {{ page.title }}
-      {% endif %}
-    </h2>
-    <p class="date">{{ page.date }}</p>
-  </header>
+
+    <p class="date">{{ page.date.toISOString() | readableDate('LLLL yyyy') }}</p>
 
   <div class="content">
     <ul>
-      <li><strong>Tools used:</strong> {{ page.tools }}</li>
-      {% if page.link %}
-      <li><strong>Visit:</strong> <a href="{{ page.link }}">{{ page.link }}</a></li>
+      <li><strong>Tools used:</strong>
+        {% set comma = joiner() %}
+        {% for tool in tools -%}
+          {{ comma() }} {{ tool }}
+        {%- endfor %} 
+      </li>
+      {% if link %}
+      <li><strong>Visit:</strong> <a href="{{ link }}">{{ link }}</a></li>
       {% endif %}
     </ul>
 

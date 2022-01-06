@@ -1,7 +1,7 @@
 ---
 layout: project
 tag: project
-date: "2015-04-19"
+date: 2015-04-19
 title: "Sendra for email"
 tools:
   - Ruby (Rails)

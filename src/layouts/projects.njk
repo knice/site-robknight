@@ -8,8 +8,8 @@ layout: default
 
   <ul class="list">
   
-  {%- for project in collections.project -%}
-    <li>{{ project.data.date }} - <a href="{{ project.data.url }}">{{ project.data.title }}</a></li>
+  {%- for project in collections.projects -%}
+    <li>{{ project.date.toISOString() | readableDate("LLLL yyyy") }} - <a href="{{ project.url }}">{{ project.data.title }}</a></li>
   {% endfor %}
   </ul>
 
