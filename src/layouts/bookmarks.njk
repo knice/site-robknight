@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section>
+
+  {{ content | safe }}
+
+  <ul class="bookmarks">
+  {% for f in favorites %}
+    <li>
+      <h2><a href="{{ f.u }}">{{ f.d }}</a></h2>
+      <p class="date">{{ f.dt | readableDate }}</p>
+      {% if f.n %}
+        <p class="description">{{ f.n }}</p>      
+      {% endif %}      
+    </li>
+  {% endfor %}
+  </ul>
+
+</section>

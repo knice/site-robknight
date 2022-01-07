@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    {% include "head.njk" %}
+  </head>
+
+  <body>
+
+    <div class="wrap">
+
+      {% include "header.njk" %}
+    
+      <main class="site-content">
+
+        <h1 class="title">
+        {% if link %}
+        <a href="{{ link }}">{{ title }} &rarr;</a>
+        {% else %}
+          {{ title }}
+        {% endif %}
+        </h1>
+
+        {{ content | safe }}
+      </main>
+    
+      {% include "footer.njk" %}
+
+    </div>
+
+  </body>
+
+</html>

@@ -1,0 +1,25 @@
+{
+  "title": "Rob Knight",
+  "url": "https://robknight.net",
+  "domain": "robknight.net",
+  "description": "Web developer, photographer from Santa Cruz, California.",
+  "genre": "Insert a schema.org genre",
+  "sendWebVitals": false,
+  "feed": {
+    "subtitle": "Posts from Rob Knight",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://robknight.net"
+  },
+  "jsonfeed": {
+    "path": "/feed.json",
+    "url": "https://robknight.net/feed/feed.json"
+  },
+  "author": {
+    "name": "Rob Knight",
+    "twitterHandle": "@robknight"
+  },
+  "publisher": {
+    "name": "Rob Knight"
+  }
+}

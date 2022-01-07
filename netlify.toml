@@ -1,6 +1,13 @@
 [build]
-  command = "jekyll build"
+  command = "npm run build"
   publish = "_site"
+
+[[redirects]]
+  from = "/things/*"
+  to = "/bookmarks/:splat"
+  status = 301
+  headers = {X-From = "Netlify"}
+  force = true
 
 # [[plugins]]
 #   package = "netlify-plugin-fetch-feeds"

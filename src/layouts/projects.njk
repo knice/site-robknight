@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section>
+
+  <h2>Recent projects</h2>
+
+  <ul class="list">
+  
+  {%- for project in collections.projects -%}
+    <li>{{ project.date.toISOString() | readableDate("LLLL yyyy") }} - <a href="{{ project.url }}">{{ project.data.title }}</a></li>
+  {% endfor %}
+  </ul>
+
+  {{ content | safe }}
+
+
+</section>
