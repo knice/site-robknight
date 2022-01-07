@@ -1,0 +1,12 @@
+---
+permalink: "/feed.json"
+metadata:
+  title: "Rob Knight"
+  home_page_url: "https://robknight.net"
+  description: "Rob Knight"
+  feed_url: "https://robknight.net/feed.json"
+  author:
+    name: "Rob Knight"
+    url: "https://robknight.net/"
+---
+{% jsonFeed collections.posts, metadata, 10 %}

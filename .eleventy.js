@@ -1,7 +1,10 @@
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginNavigation = require("@11ty/eleventy-navigation");
+const pluginMetagen = require("eleventy-plugin-metagen");
+const pluginRSS = require("@11ty/eleventy-plugin-rss");
+const pluginJsonFeed = require("eleventy-plugin-json-feed");
 
 const { DateTime } = require("luxon");
+const _ = require("lodash");
 
 module.exports = function (eleventyConfig) {
   // A useful way to reference the context we are runing eleventy in
@@ -11,7 +14,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("default", "default.njk");
   //eleventyConfig.addLayoutAlias('article', 'layouts/article.njk');
   eleventyConfig.setUseGitIgnore(false);
-  eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginRSS);
+  eleventyConfig.addPlugin(pluginMetagen);
+  eleventyConfig.addPlugin(pluginJsonFeed);
 
   // minify the html output
   //eleventyConfig.addTransform("htmlmin", require("./src/utils/minify-html.js"));
@@ -20,13 +27,21 @@ module.exports = function (eleventyConfig) {
     "readableDate",
     (dateObj, format = "LLLL dd, yyyy") => {
       return DateTime.fromISO(dateObj, {
-        zone: "America/Los_Angeles",
+        zone: "utc",
       }).toFormat(format);
     }
   );
   eleventyConfig.addNunjucksFilter("timeSince", function (arg1) {
     var now = new Date().getFullYear();
     return now - arg1;
+  });
+
+  eleventyConfig.addCollection("postsByYear", (collection) => {
+    return _.chain(collection.getFilteredByGlob("./src/posts/*.md"))
+      .groupBy((post) => post.date.getFullYear())
+      .toPairs()
+      .reverse()
+      .value();
   });
 
   eleventyConfig.addFilter("post_permalink", (page) => {
@@ -52,8 +67,6 @@ module.exports = function (eleventyConfig) {
   // use a filter for simple css minification
   // eleventyConfig.addFilter("cssmin", require("./src/utils/minify-css.js"));
   // eleventyConfig.addFilter("class_year", require("./src/utils/filter-class-year.js"));
-
-  eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addPassthroughCopy("src/assets/images");
 

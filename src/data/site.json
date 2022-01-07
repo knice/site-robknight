@@ -12,7 +12,7 @@
     "id": "https://robknight.net"
   },
   "jsonfeed": {
-    "path": "/feed/feed.json",
+    "path": "/feed.json",
     "url": "https://robknight.net/feed/feed.json"
   },
   "author": {
