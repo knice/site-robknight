@@ -13,6 +13,8 @@
     
       <main class="site-content">
 
+        {% if page.url != '/' %}
+          
         <h1 class="title">
         {% if link %}
         <a href="{{ link }}">{{ title }} &rarr;</a>
@@ -20,6 +22,8 @@
           {{ title }}
         {% endif %}
         </h1>
+
+        {% endif %}
 
         {{ content | safe }}
       </main>
