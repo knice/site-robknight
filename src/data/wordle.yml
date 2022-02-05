@@ -1,3 +1,4 @@
+
   - number: 230
     score: 4
     board:
@@ -9,6 +10,18 @@
       - "no no no no almost"
       - "no no yes yes no"
       - "no yes yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-02-05"
+  - number: 231
+    score: 3
+    board:
+      - "⬛⬛⬛🟨🟩"
+      - "⬛⬛🟨⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no almost yes"
+      - "no no almost no yes"
       - "yes yes yes yes yes"
     won: true
     date: "2022-02-05"
