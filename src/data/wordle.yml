@@ -1,12 +1,27 @@
-- number: 210
-  score: 3
-  board:
-    - "🟩⬛⬛⬛⬛"
-    - "⬛⬛🟨🟩🟨"
-    - "🟩🟩🟩🟩🟩"
-  boardWords:
-    - "yes no no no no"
-    - "no no almost yes almost"
-    - "yes yes yes yes yes"
-  won: true
-  date: "2022-01-15"
+
+  - number: 210
+    score: 3
+    board:
+      - "🟩⬛⬛⬛⬛"
+      - "⬛⬛🟨🟩🟨"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "yes no no no no"
+      - "no no almost yes almost"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-01-15"
+  - number: 230
+    score: 4
+    board:
+      - "⬛⬛⬛⬛🟨"
+      - "⬛⬛🟩🟩⬛"
+      - "⬛🟩🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no almost"
+      - "no no yes yes no"
+      - "no yes yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-02-05"
