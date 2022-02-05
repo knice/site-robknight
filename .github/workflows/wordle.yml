@@ -4,6 +4,8 @@ on:
 
 jobs:
   update_library:
+    env:
+      wordleFileName: "src/data/wordle.yml"
     runs-on: macOS-latest
     name: Wordle
     # only continue if issue has "wordle" label
