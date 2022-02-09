@@ -51,3 +51,21 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-02-07"
+  - number: 234
+    score: "X"
+    board:
+      - "⬛🟩⬛🟨⬛"
+      - "⬛🟩🟩⬛🟩"
+      - "⬛🟩🟩⬛🟩"
+      - "⬛🟩🟩⬛🟩"
+      - "⬛🟩🟩⬛🟩"
+      - "⬛🟩🟩⬛🟩"
+    boardWords:
+      - "no yes no almost no"
+      - "no yes yes no yes"
+      - "no yes yes no yes"
+      - "no yes yes no yes"
+      - "no yes yes no yes"
+      - "no yes yes no yes"
+    won: false
+    date: "2022-02-09"
