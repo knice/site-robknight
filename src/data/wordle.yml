@@ -207,3 +207,21 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-02-18"
+  - number: 245
+    score: 6
+    board:
+      - "⬛⬛⬛⬛⬛"
+      - "🟩⬛🟩🟩🟩"
+      - "🟩⬛🟩🟩🟩"
+      - "🟩⬛🟩🟩🟩"
+      - "🟩⬛🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no no"
+      - "yes no yes yes yes"
+      - "yes no yes yes yes"
+      - "yes no yes yes yes"
+      - "yes no yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-02-20"
