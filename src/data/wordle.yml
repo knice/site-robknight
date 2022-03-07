@@ -457,3 +457,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-03-06"
+  - number: 261
+    score: 3
+    board:
+      - "⬛🟨⬛⬛🟩"
+      - "⬛🟨🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no no yes"
+      - "no almost yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-03-07"
