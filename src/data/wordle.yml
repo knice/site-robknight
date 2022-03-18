@@ -609,3 +609,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-03-17"
+  - number: 272
+    score: 4
+    board:
+      - "⬛⬛🟨⬛⬛"
+      - "⬛⬛🟨🟨⬛"
+      - "⬛🟩🟨🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no almost no no"
+      - "no no almost almost no"
+      - "no yes almost yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-03-18"
