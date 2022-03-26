@@ -687,3 +687,21 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-03-25"
+  - number: 280
+    score: 6
+    board:
+      - "⬛⬛🟩⬛⬛"
+      - "🟨⬛🟩⬛🟨"
+      - "🟩⬛🟩🟨⬛"
+      - "🟩🟩🟩⬛⬛"
+      - "🟩🟩🟩⬛⬛"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no yes no no"
+      - "almost no yes no almost"
+      - "yes no yes almost no"
+      - "yes yes yes no no"
+      - "yes yes yes no no"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-03-26"
