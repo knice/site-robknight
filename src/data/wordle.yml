@@ -745,3 +745,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-03-29"
+  - number: 284
+    score: 5
+    board:
+      - "⬛⬛⬛⬛⬛"
+      - "🟩⬛🟩⬛🟨"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no no"
+      - "yes no yes no almost"
+      - "yes yes yes no yes"
+      - "yes yes yes no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-03-30"
