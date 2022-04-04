@@ -821,3 +821,13 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-04-03"
+  - number: 289
+    score: 2
+    board:
+      - "⬛⬛🟩⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no yes no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-04-04"
