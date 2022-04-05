@@ -831,3 +831,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-04-04"
+  - number: 290
+    score: 5
+    board:
+      - "⬛🟩🟨⬛⬛"
+      - "⬛🟩🟨⬛🟩"
+      - "🟩🟩⬛🟩🟩"
+      - "🟩🟩⬛🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no yes almost no no"
+      - "no yes almost no yes"
+      - "yes yes no yes yes"
+      - "yes yes no yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-04-05"
